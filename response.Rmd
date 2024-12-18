@@ -1,0 +1,48 @@
+---
+title: "response"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#load predictors
+df <- read.csv("predictors.csv")
+head(df)
+```
+
+```{r}
+#Model takes education level into account for "effectiveness" of studying time, then 168-work_hours is studying time
+#Work_hours will have a polynomial relationship with exam_score
+gen_exam_score <- function(x, y) { #x=education_level, y=work_hours
+  v <- c()
+  for (i in 1:1000) {
+    if (x[i] == "High School") {
+      v <- append(v, .0025*(168-y[i])^2)
+    } else if (x[i] == "Undergraduate") {
+      v <- append(v, .005*(168-y[i])^2)
+    } else if (x[i] == "Graduate") {
+      v <- append(v, .0075*(168-y[i])^2)
+    } else {
+      v <- append(v, .01*(168-y[i])^2)
+    }
+  }
+  return((v + rnorm(1000))) #add noise
+}
+
+exam_score <- gen_exam_score(education_level, work_hours)
+summary(exam_score)
+```
+
+```{r}
+#Add response to dataframe
+df["exam_score"] <- round(exam_score, 2)
+head(df)
+```
+
+```{r}
+#Save all variables, predictors and response
+write.csv(df, "data.csv", row.names = FALSE)
+```
