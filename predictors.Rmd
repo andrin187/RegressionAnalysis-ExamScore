@@ -1,0 +1,98 @@
+---
+title: "predictors"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#Choose the number of rows wanted for the dataset
+n <- 1000
+
+#Generate caffeine intake in mg from the past 24 hours; random sample from 0 to 300 mg
+caffeine_intake <- sample(0:300, n, replace = TRUE)
+
+#Generate number of hours slept the night before; random sample from 0 to 10 hours
+amount_of_sleep <- sample(0:10, n, replace=TRUE)
+
+#Generate age, normally distributed with mean of 25, and range of 19 to ~45 years old
+age <- rnorm(n*5, mean=25, sd=5) #use n*5 so that all age ranges have some observations
+age <- as.integer(age) #make sure we only have integers
+age <- age[age >= 19] #set lower limit
+age <- sample(age, n) #sample 1000 observations
+
+#Generate how happy you feel on a daily basis; random sample with probabilities for each value
+happiness_level <- sample(c("Extremely Unhappy", "Unhappy", "Happy", "Extremely Happy"), n, replace=TRUE, prob=c(.2, .3, .4, .1))
+
+#Generate hours of exercise in past 24 hours; random sample from 0 to 5
+amount_of_exercise <- sample(0:5, n, replace=TRUE)
+
+#Generate how confident you are about the exam; random sample with probablities for each value
+confidence_level <- sample(c("Extremely Unconfident", "Unconfident", "Confident", "Extremely Confident"), n, replace=TRUE, prob=c(.3, .4, .2, .1))
+
+#Generate highest level of education, with probabilities for each value dependent on age
+gen_edu_level <- function(x) {
+  v <- c()
+  for (i in 1:n) {
+    if (x[i] <= 21) {
+      v <- append(v, sample(c("High School", "Undergraduate"), 1, prob=c(.8, .2)))
+    } else if (x[i] <= 31) {
+      v <- append(v, sample(c("High School", "Undergraduate", "Graduate"), 1, prob=c(.1, .55, .35)))
+    } else {
+      v <- append(v, sample(c("High School", "Undergraduate", "Graduate", "Doctorate"), 1, prob=c(.05, .15, .45, .35)))
+    }
+  }
+  return(v)
+}
+education_level <- gen_edu_level(age)
+
+#Generate hours worked in the past week; normally distributed with mean of 32 and range from 0 to 60
+work_hours <- rnorm(n*5, 32, 10)
+work_hours <- work_hours[(work_hours >= 0) & (work_hours <= 60)]
+work_hours <- sample(work_hours, n)
+work_hours <- as.integer(work_hours)
+
+#Generate estimated yearly income; gives a random value from a given range depending on education
+gen_income <- function(x) {
+  v <- c()
+  for (i in 1:n) {
+   if (x[i] == "High School") {
+      v <- append(v, sample(30000:70000, 1))
+    } else if (x[i] == "Undergraduate") {
+      v <- append(v, sample(50000:120000, 1))
+    } else if (x[i] == "Graduate") {
+      v <- append(v, sample(80000:250000, 1))
+    } else {
+      v <- append(v, sample(180000:300000, 1))
+    }
+  }
+  return(v)
+}
+income <- gen_income(education_level)
+
+#Generate how stressed you feel on a daily basis; random value with probabilities for each value dependent on work hours
+gen_stress_level <- function(x) {
+  v <- c()
+  values <- c("Extremely Low", "Low", "High", "Extremely High")
+  for (i in 1:n) {
+    if (x[i] <= 10) {
+      v <- append(v, sample(values, 1, prob=c(.1, .4, .3, .2)))
+    } else if (x[i] <= 20) {
+      v <- append(v, sample(values, 1, prob=c(.1, .4, .3, .2)))
+    } else if (x[i] <= 30) {
+      v <- append(v, sample(values, 1, prob=c(.1, .2, .4, .3)))
+    } else {
+      v <- append(v, sample(values, 1, prob=c(.1, .2, .3, .4)))
+    }
+  }
+  return(v)
+}
+stress_level <- gen_stress_level(work_hours)
+
+#Assemble predictors into dataframe
+predictors <- data.frame(caffeine_intake, amount_of_exercise, amount_of_sleep, age, education_level, confidence_level, income, work_hours, stress_level, happiness_level)
+
+head(predictors)
+```
