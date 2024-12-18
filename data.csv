@@ -1,0 +1,1001 @@
+"caffeine_intake","amount_of_exercise","amount_of_sleep","age","education_level","confidence_level","income","work_hours","stress_level","happiness_level","exam_score"
+124,2,10,28,"Undergraduate","Confident",119592,38,"High","Extremely Unhappy",84.56
+185,1,5,19,"Undergraduate","Extremely Confident",69846,45,"Extremely High","Extremely Happy",87.8
+130,2,9,25,"High School","Confident",33453,19,"Low","Extremely Unhappy",95.99
+55,5,2,24,"High School","Unconfident",62494,52,"High","Happy",62.65
+183,2,10,31,"Undergraduate","Unconfident",109995,36,"High","Happy",101.24
+244,3,5,28,"Undergraduate","Unconfident",59355,53,"Extremely High","Happy",142.61
+294,2,6,28,"Undergraduate","Extremely Confident",111908,39,"Extremely High","Extremely Happy",37.4
+193,2,1,31,"Graduate","Confident",175147,24,"High","Happy",111.98
+158,3,6,22,"Graduate","Extremely Unconfident",111103,35,"Extremely High","Happy",76.89
+154,0,9,26,"Undergraduate","Unconfident",96977,24,"High","Extremely Happy",111.44
+252,5,0,29,"Undergraduate","Extremely Unconfident",116159,33,"Extremely High","Happy",48.67
+217,5,10,30,"Undergraduate","Unconfident",68518,40,"High","Extremely Happy",49.07
+131,0,3,25,"Graduate","Extremely Unconfident",232746,46,"High","Unhappy",73.61
+290,1,6,27,"Undergraduate","Extremely Unconfident",60672,31,"Extremely Low","Happy",98.97
+27,0,8,23,"Graduate","Extremely Confident",155752,19,"Low","Unhappy",115.79
+47,4,8,25,"Undergraduate","Unconfident",117731,40,"Low","Happy",37.65
+226,1,5,29,"Undergraduate","Extremely Unconfident",106841,39,"Extremely High","Unhappy",72.56
+167,1,5,27,"Graduate","Extremely Confident",89860,27,"Low","Happy",135.31
+28,0,0,27,"Undergraduate","Extremely Unconfident",101700,44,"Low","Happy",47.17
+92,4,10,24,"Undergraduate","Extremely Unconfident",81712,25,"Extremely High","Extremely Happy",50.84
+176,3,2,29,"Undergraduate","Confident",116111,18,"High","Unhappy",88.44
+15,2,1,25,"Graduate","Extremely Unconfident",232204,54,"Low","Unhappy",89.22
+122,5,1,37,"Doctorate","Extremely Unconfident",211955,24,"High","Happy",92.65
+298,0,5,23,"Graduate","Extremely Confident",182593,21,"Extremely High","Unhappy",155.49
+296,0,1,25,"Undergraduate","Extremely Unconfident",106241,41,"High","Happy",38.3
+294,1,10,22,"Graduate","Confident",182487,59,"Low","Happy",88.59
+47,4,7,29,"Graduate","Extremely Unconfident",89142,12,"High","Extremely Unhappy",48.01
+168,0,3,22,"Undergraduate","Confident",54466,35,"High","Happy",76.14
+220,5,6,25,"Graduate","Confident",118627,32,"Extremely High","Happy",132.51
+249,2,2,29,"Undergraduate","Extremely Unconfident",98029,28,"High","Unhappy",119.5
+251,1,8,20,"High School","Unconfident",64328,34,"Extremely High","Happy",136.45
+30,1,8,21,"High School","Extremely Unconfident",46668,32,"High","Unhappy",114.2
+85,0,5,29,"Undergraduate","Unconfident",109572,26,"Low","Happy",100.72
+9,4,2,19,"High School","Extremely Confident",69525,9,"Extremely High","Extremely Unhappy",91.53
+148,0,4,26,"Graduate","Unconfident",181206,40,"High","Happy",158.21
+86,5,10,24,"Undergraduate","Extremely Unconfident",106062,29,"Extremely High","Unhappy",56.06
+80,2,5,30,"Undergraduate","Extremely Unconfident",100025,39,"Extremely High","Happy",91.51
+87,1,5,28,"Undergraduate","Unconfident",114279,31,"High","Unhappy",53.02
+226,4,6,25,"Graduate","Unconfident",174965,37,"Extremely High","Extremely Unhappy",114.19
+61,4,9,25,"Graduate","Extremely Unconfident",174634,21,"Low","Happy",127.48
+242,1,10,22,"Undergraduate","Confident",80124,31,"High","Extremely Unhappy",92.54
+231,3,7,28,"Undergraduate","Extremely Confident",111934,26,"High","Extremely Unhappy",40.79
+260,4,8,22,"Graduate","Extremely Unconfident",230786,30,"High","Extremely Unhappy",144.69
+84,5,8,28,"Undergraduate","Unconfident",102754,15,"Extremely Low","Extremely Happy",166.8
+168,5,10,25,"Undergraduate","Unconfident",51637,38,"Low","Unhappy",82.56
+214,2,2,24,"Graduate","Confident",219955,41,"Low","Happy",90.22
+169,1,8,37,"Undergraduate","Unconfident",115384,32,"Extremely High","Unhappy",116.53
+296,4,7,24,"Undergraduate","Extremely Unconfident",84694,35,"High","Happy",91.67
+70,3,0,28,"High School","Extremely Confident",63336,46,"Low","Happy",78.57
+70,2,5,26,"Undergraduate","Unconfident",96445,14,"High","Unhappy",71.62
+148,1,9,20,"High School","Unconfident",45423,24,"High","Happy",147.92
+212,0,8,34,"Doctorate","Unconfident",200634,28,"Extremely High","Happy",156.05
+176,5,3,25,"Undergraduate","Extremely Unconfident",62624,48,"High","Unhappy",85.09
+229,4,5,37,"Graduate","Unconfident",213835,41,"Extremely High","Happy",196.14
+77,2,7,35,"Doctorate","Extremely Unconfident",281783,32,"High","Extremely Happy",149.34
+164,3,9,20,"High School","Unconfident",53271,27,"Low","Unhappy",43.17
+47,1,10,29,"Undergraduate","Extremely Unconfident",71147,27,"High","Extremely Happy",74.1
+92,4,9,30,"High School","Extremely Unconfident",57559,28,"Extremely High","Unhappy",95.36
+259,4,0,31,"Undergraduate","Confident",96626,48,"High","Happy",92.04
+87,2,0,33,"Graduate","Extremely Unconfident",185317,36,"Extremely Low","Extremely Unhappy",79.46
+291,3,0,31,"Undergraduate","Unconfident",73968,29,"Extremely High","Unhappy",97.7
+39,5,10,26,"Undergraduate","Unconfident",54407,34,"Low","Extremely Unhappy",35.92
+64,1,10,25,"Graduate","Extremely Unconfident",114979,30,"Low","Happy",59.87
+13,3,4,28,"Undergraduate","Extremely Confident",70087,26,"High","Extremely Unhappy",86.72
+224,2,6,26,"Graduate","Unconfident",96214,46,"Extremely Low","Extremely Unhappy",81.88
+108,1,2,29,"Undergraduate","Unconfident",71512,33,"High","Happy",94.65
+160,1,7,38,"Doctorate","Unconfident",194366,16,"High","Happy",132.45
+57,1,6,28,"Undergraduate","Confident",98226,26,"Extremely High","Unhappy",50.39
+59,2,0,27,"Undergraduate","Extremely Confident",87874,33,"Extremely Low","Unhappy",156.56
+213,4,3,20,"High School","Confident",47011,18,"Low","Happy",93.33
+181,5,7,27,"Undergraduate","Extremely Unconfident",52561,17,"Low","Extremely Happy",109.45
+245,1,3,26,"Undergraduate","Unconfident",114274,54,"High","Happy",45.91
+229,2,9,24,"Undergraduate","Extremely Confident",76296,27,"High","Unhappy",79.52
+224,1,6,20,"High School","Extremely Unconfident",47679,24,"Extremely Low","Extremely Happy",106.7
+28,5,1,21,"High School","Unconfident",42006,27,"High","Happy",141.72
+224,4,5,21,"High School","Extremely Unconfident",37662,42,"Low","Unhappy",97.77
+100,3,7,32,"Undergraduate","Confident",55594,32,"Low","Unhappy",62.05
+93,0,2,19,"High School","Confident",47759,46,"Low","Extremely Unhappy",47.73
+190,0,0,32,"Graduate","Unconfident",143159,32,"High","Unhappy",157.15
+247,5,1,25,"Undergraduate","Extremely Confident",79552,29,"Low","Happy",114.22
+27,0,3,23,"Graduate","Extremely Confident",193921,30,"Low","Happy",46.97
+176,4,6,28,"Graduate","Extremely Unconfident",128706,41,"Extremely High","Extremely Unhappy",110.54
+181,0,10,33,"Undergraduate","Unconfident",117696,29,"High","Happy",106.22
+58,0,0,24,"Graduate","Extremely Unconfident",162458,21,"High","Extremely Unhappy",135.47
+160,2,0,19,"Undergraduate","Extremely Confident",106803,36,"Extremely High","Happy",84.44
+28,0,9,30,"Undergraduate","Extremely Unconfident",68071,30,"High","Happy",134.15
+116,0,6,25,"Graduate","Unconfident",161258,12,"High","Unhappy",133.27
+125,3,8,20,"High School","Confident",66151,28,"Low","Extremely Happy",103.59
+82,3,8,34,"High School","Confident",53898,15,"Low","Happy",85.34
+74,1,7,25,"High School","Unconfident",49163,23,"Low","Unhappy",118.02
+82,5,3,24,"Graduate","Unconfident",164172,7,"High","Happy",145.86
+112,5,0,35,"Doctorate","Unconfident",235645,25,"High","Unhappy",80.84
+29,3,2,31,"Undergraduate","Extremely Unconfident",101681,31,"High","Unhappy",111.91
+285,0,5,27,"Graduate","Unconfident",89985,24,"Extremely High","Extremely Unhappy",122.38
+178,0,1,26,"Undergraduate","Unconfident",101359,36,"High","Happy",156.35
+270,5,7,27,"Undergraduate","Extremely Confident",55127,45,"Extremely High","Happy",33.44
+20,5,8,26,"Undergraduate","Extremely Unconfident",114881,32,"High","Happy",142.91
+104,1,5,25,"Undergraduate","Unconfident",118652,37,"Extremely High","Unhappy",120.47
+58,0,10,22,"Undergraduate","Extremely Confident",104095,44,"Extremely High","Unhappy",70.11
+111,1,9,22,"Graduate","Extremely Unconfident",206261,34,"Extremely High","Happy",138.39
+42,4,10,31,"High School","Unconfident",66340,33,"Low","Unhappy",205.04
+256,0,6,31,"Undergraduate","Extremely Unconfident",79659,25,"High","Unhappy",101.51
+183,3,5,24,"Undergraduate","Unconfident",85428,42,"Extremely Low","Happy",163.73
+238,2,7,21,"Undergraduate","Extremely Confident",53408,27,"High","Happy",105.03
+119,1,6,35,"Doctorate","Extremely Unconfident",190194,24,"Extremely High","Unhappy",78.48
+216,5,5,24,"High School","Unconfident",38871,18,"High","Happy",104.36
+163,1,1,22,"Undergraduate","Extremely Unconfident",111917,39,"Extremely High","Happy",132.7
+64,0,0,29,"Undergraduate","Extremely Unconfident",56917,16,"Extremely Low","Extremely Happy",80.38
+70,5,4,36,"Undergraduate","Extremely Unconfident",103193,22,"Extremely High","Unhappy",56.17
+287,2,4,26,"Undergraduate","Unconfident",52702,22,"High","Extremely Unhappy",113.73
+181,5,7,20,"High School","Confident",46178,24,"Low","Extremely Happy",89.86
+105,0,0,23,"Graduate","Extremely Unconfident",220340,34,"Extremely High","Extremely Unhappy",85.63
+195,1,4,31,"Graduate","Extremely Confident",157451,40,"Extremely Low","Happy",76.47
+243,5,0,30,"Undergraduate","Unconfident",110797,38,"Low","Extremely Unhappy",79.05
+53,5,7,21,"Undergraduate","Unconfident",102315,50,"Extremely High","Unhappy",105.35
+16,0,6,20,"Undergraduate","Confident",100054,42,"High","Happy",147.16
+167,3,9,28,"Graduate","Confident",104679,31,"Extremely Low","Unhappy",54.89
+129,5,6,24,"Undergraduate","Unconfident",100768,48,"Low","Happy",178.12
+87,0,1,24,"Graduate","Extremely Unconfident",119535,33,"High","Unhappy",122.52
+223,1,7,23,"Graduate","Extremely Unconfident",220681,28,"Low","Unhappy",53.44
+32,1,9,22,"Undergraduate","Extremely Unconfident",85149,39,"Extremely High","Extremely Unhappy",42.23
+258,0,8,31,"Graduate","Confident",194271,33,"High","Happy",153.26
+103,2,0,22,"Undergraduate","Unconfident",59727,52,"Extremely High","Unhappy",106.75
+261,5,0,23,"High School","Extremely Unconfident",35115,34,"Extremely Low","Happy",145.5
+177,4,7,24,"Undergraduate","Unconfident",59437,42,"High","Happy",104.82
+237,3,6,28,"Graduate","Unconfident",105211,41,"Low","Unhappy",101.38
+20,0,8,23,"Undergraduate","Unconfident",96051,29,"Low","Happy",103.98
+31,0,4,25,"Undergraduate","Extremely Confident",54778,16,"Extremely High","Extremely Happy",128.25
+187,3,10,21,"High School","Extremely Unconfident",42408,35,"Extremely High","Extremely Unhappy",101.14
+37,1,0,20,"High School","Extremely Unconfident",68822,36,"High","Extremely Happy",92.82
+204,5,4,27,"Graduate","Extremely Unconfident",219594,51,"Extremely High","Extremely Happy",96.26
+212,4,10,30,"Graduate","Confident",231783,32,"Low","Extremely Unhappy",59.96
+50,2,5,23,"Graduate","Unconfident",106235,47,"High","Unhappy",148.54
+91,5,3,19,"High School","Unconfident",61837,40,"Extremely High","Unhappy",119.82
+189,1,10,20,"High School","Extremely Unconfident",33856,34,"Extremely High","Unhappy",32.68
+93,1,9,20,"High School","Extremely Confident",69570,44,"Extremely High","Happy",103.35
+36,3,8,23,"Graduate","Confident",198076,36,"Low","Happy",83.68
+175,2,1,26,"Undergraduate","Extremely Unconfident",102282,48,"Extremely High","Extremely Unhappy",80.64
+266,1,5,23,"High School","Extremely Unconfident",66295,7,"Low","Extremely Happy",111.32
+267,0,1,22,"Undergraduate","Extremely Unconfident",56232,22,"Extremely High","Extremely Unhappy",64.45
+186,3,4,28,"Graduate","Extremely Unconfident",163496,38,"Extremely High","Happy",116.33
+214,1,0,31,"Undergraduate","Unconfident",119351,45,"Extremely Low","Happy",57.08
+17,4,10,27,"Graduate","Confident",227585,34,"High","Unhappy",147.5
+74,5,9,27,"Undergraduate","Extremely Confident",54856,35,"High","Extremely Unhappy",99.86
+58,0,3,26,"Undergraduate","Unconfident",99272,43,"Low","Unhappy",141.55
+4,3,9,22,"High School","Extremely Unconfident",62893,40,"Extremely Low","Happy",90.21
+141,3,5,23,"Undergraduate","Extremely Confident",73877,34,"Extremely High","Unhappy",149.28
+292,0,9,19,"High School","Unconfident",55159,20,"Extremely High","Unhappy",71.56
+220,4,8,21,"High School","Unconfident",47376,21,"Extremely High","Happy",38
+106,4,8,24,"Undergraduate","Unconfident",78400,33,"Extremely High","Unhappy",132.44
+41,3,8,22,"Graduate","Extremely Confident",240539,37,"Extremely High","Unhappy",131.91
+123,4,3,32,"Doctorate","Extremely Unconfident",233157,38,"Extremely High","Happy",160.03
+127,1,9,29,"Graduate","Unconfident",164147,45,"Extremely Low","Happy",174.93
+223,5,10,20,"High School","Confident",68369,26,"High","Unhappy",145.28
+7,4,6,20,"Undergraduate","Extremely Unconfident",87024,27,"Low","Happy",86.68
+254,1,10,27,"Graduate","Unconfident",107821,41,"Extremely High","Extremely Unhappy",44.61
+227,1,7,20,"High School","Unconfident",51777,27,"High","Unhappy",96.3
+150,0,4,27,"Graduate","Unconfident",246657,28,"Extremely High","Happy",77.07
+292,0,6,20,"High School","Extremely Unconfident",56628,27,"High","Extremely Happy",112.52
+102,0,2,23,"Graduate","Unconfident",167681,38,"Extremely High","Happy",79.81
+172,3,4,24,"Graduate","Unconfident",244374,15,"High","Extremely Unhappy",86.89
+175,1,10,33,"Doctorate","Confident",190655,25,"High","Extremely Happy",102.23
+58,4,10,21,"High School","Unconfident",54794,22,"Low","Unhappy",101.13
+51,3,10,27,"Graduate","Extremely Unconfident",163371,46,"Extremely High","Happy",45.3
+157,2,1,23,"High School","Confident",65864,30,"Low","Extremely Unhappy",110.64
+71,2,3,22,"Graduate","Unconfident",224779,52,"Low","Happy",92.83
+135,0,10,23,"Undergraduate","Unconfident",117708,22,"Low","Extremely Unhappy",78.39
+169,0,2,21,"High School","Extremely Unconfident",52442,49,"High","Happy",53.36
+56,4,10,33,"Doctorate","Unconfident",232519,36,"Extremely High","Extremely Happy",90.12
+11,0,10,22,"Graduate","Extremely Confident",240139,37,"Extremely High","Happy",110.55
+15,5,2,25,"Undergraduate","Unconfident",65567,24,"Low","Unhappy",45.09
+135,2,8,28,"High School","Extremely Confident",34674,58,"High","Happy",138.01
+253,0,9,32,"Graduate","Extremely Unconfident",105654,41,"Extremely High","Extremely Unhappy",109.91
+21,5,2,28,"Graduate","Confident",139295,23,"Low","Unhappy",85.75
+147,4,0,25,"Undergraduate","Extremely Confident",117675,39,"High","Happy",94.41
+230,5,10,31,"Undergraduate","Confident",90195,33,"Low","Extremely Unhappy",80.74
+236,2,10,24,"Undergraduate","Confident",114322,33,"High","Happy",105.51
+130,2,2,21,"High School","Confident",45079,23,"Low","Happy",135.29
+8,5,10,21,"High School","Extremely Confident",30252,32,"Extremely High","Unhappy",136.68
+135,1,7,24,"Undergraduate","Unconfident",74720,41,"High","Extremely Unhappy",95.95
+76,3,9,22,"Undergraduate","Confident",68026,24,"Extremely High","Extremely Unhappy",122.1
+138,5,5,25,"Graduate","Confident",198230,38,"Extremely High","Happy",154.97
+3,1,4,31,"Undergraduate","Extremely Unconfident",76681,22,"Extremely High","Happy",53.1
+88,3,10,25,"Undergraduate","Unconfident",108024,50,"Extremely High","Happy",82.2
+228,1,7,33,"Undergraduate","Extremely Unconfident",113357,38,"Extremely High","Happy",83.7
+75,0,2,27,"High School","Confident",37292,23,"Extremely High","Happy",147.14
+98,1,7,23,"Undergraduate","Extremely Confident",58774,48,"Extremely High","Unhappy",42.47
+295,2,9,27,"Undergraduate","Confident",85144,11,"High","Unhappy",43.43
+127,1,2,23,"Undergraduate","Confident",67702,28,"High","Happy",91.21
+263,2,7,26,"Undergraduate","Unconfident",106099,29,"High","Unhappy",34.89
+88,2,9,19,"High School","Unconfident",48630,29,"High","Extremely Unhappy",44.2
+277,2,8,36,"High School","Unconfident",63574,13,"High","Happy",137.25
+239,1,6,38,"Undergraduate","Extremely Unconfident",55351,49,"High","Extremely Unhappy",150.2
+17,3,6,24,"Undergraduate","Unconfident",84959,23,"Extremely High","Unhappy",47.85
+104,3,2,20,"High School","Extremely Unconfident",67152,32,"Extremely High","Unhappy",118.46
+50,0,8,26,"Undergraduate","Extremely Unconfident",96578,30,"Low","Unhappy",176.82
+238,5,6,23,"Graduate","Unconfident",240738,37,"High","Extremely Happy",102.42
+220,0,2,22,"Graduate","Confident",153331,35,"High","Extremely Happy",103.63
+99,1,8,25,"Graduate","Unconfident",190281,32,"Low","Happy",131.06
+123,1,2,27,"Undergraduate","Unconfident",114423,23,"High","Unhappy",90.95
+112,3,10,19,"High School","Unconfident",53902,39,"Low","Happy",92.24
+56,1,7,21,"Undergraduate","Confident",81478,31,"Extremely Low","Unhappy",95.73
+59,1,10,22,"Graduate","Confident",94101,30,"Extremely Low","Extremely Unhappy",49.96
+214,5,2,28,"Undergraduate","Unconfident",73810,32,"High","Happy",110.93
+244,4,3,29,"Undergraduate","Confident",81759,31,"High","Happy",103.6
+209,0,3,23,"Graduate","Confident",160035,22,"Low","Happy",70.51
+87,2,4,21,"Undergraduate","Extremely Confident",90978,29,"Low","Happy",149.29
+144,5,4,28,"High School","Unconfident",66735,17,"Low","Unhappy",83.69
+22,2,3,23,"Undergraduate","Confident",58887,41,"Low","Happy",82.19
+33,2,8,28,"Undergraduate","Unconfident",72517,38,"High","Extremely Unhappy",97.72
+166,5,1,25,"Undergraduate","Unconfident",113205,25,"High","Happy",86.72
+238,4,6,19,"High School","Extremely Confident",31601,37,"High","Happy",133.22
+171,1,10,26,"Graduate","Extremely Unconfident",103212,32,"Extremely High","Unhappy",43.71
+170,3,8,30,"Undergraduate","Confident",101834,29,"Low","Unhappy",102.25
+140,1,1,24,"Graduate","Confident",141492,40,"High","Extremely Happy",136.97
+263,1,8,20,"High School","Extremely Unconfident",41700,53,"Extremely High","Unhappy",120.97
+172,5,4,29,"Graduate","Extremely Unconfident",121130,44,"High","Happy",98.76
+251,4,1,23,"Graduate","Extremely Unconfident",82672,42,"Extremely High","Happy",95.67
+295,0,1,24,"Undergraduate","Unconfident",71301,26,"High","Extremely Unhappy",118.75
+69,2,6,33,"Graduate","Unconfident",114172,34,"Extremely High","Happy",128.75
+73,0,7,36,"Doctorate","Confident",218694,44,"Extremely High","Extremely Happy",86.93
+230,4,3,22,"Graduate","Unconfident",230446,41,"Extremely High","Unhappy",110.31
+90,2,5,23,"Undergraduate","Confident",99588,38,"Extremely High","Extremely Happy",52.27
+91,5,7,25,"Undergraduate","Unconfident",63163,30,"Low","Happy",85.81
+62,5,4,23,"Undergraduate","Extremely Unconfident",96705,22,"High","Unhappy",103.41
+120,1,9,28,"High School","Unconfident",55750,49,"Low","Happy",110.52
+40,2,2,19,"High School","Extremely Unconfident",44464,24,"High","Happy",95.73
+9,0,1,25,"Undergraduate","Unconfident",94893,22,"High","Happy",61.38
+128,4,4,24,"Undergraduate","Extremely Confident",84275,29,"Extremely High","Extremely Happy",40.29
+288,4,7,24,"High School","Unconfident",66921,28,"Extremely High","Unhappy",101.82
+239,3,0,29,"Undergraduate","Unconfident",83283,21,"Extremely High","Extremely Unhappy",52.56
+172,3,2,28,"Graduate","Extremely Confident",119655,34,"High","Happy",117.6
+117,1,8,25,"Undergraduate","Extremely Unconfident",107138,31,"Extremely High","Extremely Unhappy",88
+63,4,7,26,"Graduate","Unconfident",235205,36,"Extremely High","Extremely Happy",89.76
+9,2,1,24,"Undergraduate","Extremely Unconfident",71878,21,"Extremely High","Happy",162.69
+48,0,9,19,"High School","Extremely Unconfident",50846,51,"High","Happy",144.24
+255,4,5,31,"Undergraduate","Unconfident",61067,35,"Low","Unhappy",140.74
+11,5,3,34,"Graduate","Unconfident",181314,25,"Low","Happy",94.7
+126,2,8,24,"Undergraduate","Extremely Unconfident",53577,21,"Low","Unhappy",95.92
+132,4,6,26,"Undergraduate","Extremely Confident",107273,29,"Extremely High","Happy",138.6
+278,2,0,25,"Undergraduate","Confident",116222,25,"High","Happy",49.76
+170,2,2,26,"Undergraduate","Unconfident",92374,27,"Low","Unhappy",93.15
+267,1,4,23,"Graduate","Confident",166937,36,"Extremely High","Extremely Happy",123.1
+122,5,1,26,"High School","Extremely Confident",59133,33,"Low","Extremely Unhappy",93.06
+181,3,6,25,"Undergraduate","Confident",78593,55,"Low","Happy",134.68
+107,5,9,21,"High School","Unconfident",47020,27,"High","Extremely Happy",48.62
+259,1,0,22,"Undergraduate","Extremely Unconfident",62547,21,"Extremely High","Happy",95.3
+11,4,4,24,"High School","Extremely Unconfident",61331,39,"Low","Extremely Happy",184.2
+290,2,8,19,"High School","Extremely Unconfident",53953,28,"Low","Happy",110.46
+174,0,5,24,"Undergraduate","Unconfident",117828,40,"High","Unhappy",89.84
+211,4,1,20,"High School","Confident",63380,24,"High","Unhappy",51.03
+192,2,10,32,"Graduate","Confident",204387,22,"Extremely Low","Unhappy",145.34
+277,5,4,19,"High School","Confident",50737,47,"Low","Happy",37.31
+222,2,10,28,"Undergraduate","Unconfident",80434,20,"High","Happy",106
+156,4,7,29,"Undergraduate","Extremely Unconfident",102981,48,"Extremely High","Happy",102.51
+153,2,6,27,"Undergraduate","Unconfident",78714,28,"High","Extremely Unhappy",129.54
+225,2,1,21,"High School","Unconfident",46403,30,"Extremely Low","Unhappy",231.88
+114,1,10,27,"Undergraduate","Extremely Unconfident",67883,15,"Low","Happy",134.23
+271,3,0,31,"Undergraduate","Extremely Unconfident",118433,32,"High","Extremely Unhappy",166.01
+251,3,7,24,"Undergraduate","Extremely Unconfident",81662,41,"High","Extremely Happy",100.51
+61,4,9,28,"Undergraduate","Unconfident",69905,41,"High","Extremely Happy",99.58
+151,0,2,27,"Graduate","Extremely Confident",172454,15,"High","Happy",131.39
+266,2,3,31,"Undergraduate","Unconfident",63756,34,"Extremely High","Extremely Unhappy",114.33
+203,1,9,31,"Undergraduate","Confident",78876,32,"High","Unhappy",94.82
+55,3,6,26,"Undergraduate","Unconfident",75875,25,"High","Happy",106.85
+191,0,4,30,"Graduate","Unconfident",190234,25,"Extremely High","Extremely Happy",95.56
+118,5,0,25,"Graduate","Extremely Unconfident",226679,27,"Extremely High","Happy",211.91
+219,1,10,37,"Graduate","Unconfident",80782,31,"High","Extremely Unhappy",98.41
+274,1,10,21,"High School","Unconfident",67233,27,"Low","Happy",35.83
+20,4,4,26,"Graduate","Extremely Unconfident",179307,42,"Low","Happy",88.57
+79,4,8,28,"Graduate","Unconfident",233894,41,"High","Happy",126.19
+82,1,2,29,"Graduate","Unconfident",214897,24,"Extremely High","Happy",126.61
+270,4,3,20,"High School","Unconfident",46508,28,"High","Extremely Happy",75.03
+138,5,0,28,"High School","Unconfident",41947,43,"Extremely Low","Happy",43.34
+38,5,4,19,"Undergraduate","Unconfident",104945,13,"Low","Happy",46.75
+202,4,0,22,"Undergraduate","Extremely Unconfident",86134,39,"High","Happy",113.62
+153,2,9,22,"Graduate","Extremely Unconfident",86228,33,"High","Happy",97.09
+286,2,10,24,"Undergraduate","Confident",85174,20,"Low","Happy",108.21
+112,0,0,28,"Graduate","Unconfident",97521,26,"Low","Happy",153.32
+249,0,6,21,"High School","Extremely Confident",46750,33,"Extremely High","Happy",145.91
+52,4,3,33,"Graduate","Extremely Unconfident",114324,38,"Extremely High","Extremely Happy",54.6
+145,3,9,22,"Undergraduate","Extremely Unconfident",71542,11,"Extremely High","Unhappy",150.81
+239,5,4,24,"Undergraduate","Extremely Unconfident",104997,15,"Extremely High","Unhappy",170.59
+299,3,7,29,"Graduate","Extremely Unconfident",173695,21,"Low","Happy",78.9
+153,4,4,26,"Undergraduate","Confident",67902,43,"Extremely High","Extremely Unhappy",73.97
+44,1,3,22,"Graduate","Confident",99604,13,"Extremely High","Unhappy",43.68
+6,5,5,29,"Undergraduate","Confident",69990,18,"Extremely High","Unhappy",102.36
+187,3,3,20,"High School","Extremely Unconfident",31766,34,"Low","Extremely Unhappy",47.51
+49,5,5,31,"Undergraduate","Extremely Unconfident",55942,28,"Extremely High","Unhappy",64.12
+224,1,9,20,"High School","Unconfident",44047,31,"Low","Happy",111.88
+274,2,5,26,"Undergraduate","Unconfident",77966,20,"Low","Happy",82.28
+35,4,1,30,"High School","Extremely Unconfident",40843,30,"High","Extremely Unhappy",102.02
+15,4,2,24,"Graduate","Unconfident",146985,29,"Extremely High","Happy",85.68
+42,0,9,27,"High School","Unconfident",61464,39,"High","Happy",90.57
+209,3,0,31,"Graduate","Extremely Unconfident",110188,30,"Extremely High","Extremely Unhappy",128.19
+87,2,5,20,"High School","Unconfident",45814,26,"Extremely Low","Unhappy",105.44
+6,3,6,23,"Undergraduate","Unconfident",89543,27,"High","Extremely Unhappy",35.34
+125,5,3,26,"High School","Confident",41595,52,"Extremely High","Extremely Unhappy",100.14
+78,1,0,26,"Graduate","Extremely Unconfident",102947,34,"Extremely High","Happy",95.74
+290,0,6,26,"Undergraduate","Unconfident",80276,33,"High","Happy",87.27
+189,5,2,22,"Undergraduate","Unconfident",81982,13,"Extremely Low","Happy",165.65
+278,2,9,30,"Undergraduate","Confident",92525,38,"Low","Happy",165.82
+288,1,8,32,"Undergraduate","Unconfident",73693,49,"Extremely High","Happy",163.65
+206,0,8,24,"Graduate","Confident",213331,38,"Extremely Low","Unhappy",179.26
+142,1,4,25,"Undergraduate","Unconfident",84189,51,"Extremely High","Happy",158.74
+299,3,6,32,"Graduate","Extremely Unconfident",169501,32,"Extremely High","Unhappy",71.18
+291,3,5,21,"High School","Extremely Unconfident",57293,34,"High","Extremely Unhappy",139.53
+192,1,8,26,"Undergraduate","Unconfident",58889,46,"Extremely High","Unhappy",36.1
+24,1,3,23,"Graduate","Confident",194551,40,"High","Extremely Happy",59.83
+151,5,0,23,"High School","Unconfident",42556,25,"High","Extremely Unhappy",54.2
+171,0,7,23,"Undergraduate","Unconfident",54523,22,"Extremely High","Extremely Unhappy",94.42
+114,2,8,25,"Undergraduate","Confident",102946,23,"High","Happy",36.81
+22,2,4,24,"Undergraduate","Confident",50176,31,"High","Happy",37.91
+200,4,4,29,"Undergraduate","Extremely Unconfident",87314,36,"Extremely High","Unhappy",89.75
+198,2,5,24,"Undergraduate","Extremely Unconfident",98216,42,"Extremely High","Extremely Unhappy",84.77
+264,2,5,30,"Undergraduate","Extremely Unconfident",80826,24,"High","Happy",82.06
+84,2,3,27,"Undergraduate","Unconfident",80428,41,"Extremely High","Unhappy",180.51
+266,1,1,29,"Graduate","Unconfident",249712,17,"Low","Unhappy",126.48
+144,4,5,22,"Undergraduate","Unconfident",50847,25,"Extremely High","Extremely Happy",49.39
+134,2,5,20,"High School","Confident",52268,32,"Extremely High","Unhappy",162.07
+21,3,9,26,"Graduate","Extremely Unconfident",192664,21,"Low","Happy",88.69
+66,0,4,20,"High School","Unconfident",35469,19,"Low","Unhappy",145.54
+9,4,5,22,"Undergraduate","Unconfident",62001,18,"Low","Extremely Unhappy",88.94
+206,4,4,23,"Undergraduate","Confident",76961,12,"High","Happy",76.73
+234,5,5,30,"Undergraduate","Confident",101372,24,"Extremely High","Happy",45.33
+222,2,3,27,"Undergraduate","Confident",61882,41,"High","Unhappy",114.28
+15,4,9,25,"Undergraduate","Extremely Confident",95191,28,"Extremely Low","Extremely Happy",111.47
+41,5,5,23,"Undergraduate","Extremely Unconfident",95213,17,"Extremely High","Unhappy",72.99
+263,5,10,26,"Graduate","Confident",197010,41,"High","Unhappy",90.12
+114,5,6,28,"Graduate","Confident",164461,24,"Extremely Low","Unhappy",97.68
+193,5,6,29,"Graduate","Extremely Confident",232021,38,"Low","Extremely Happy",107.48
+213,1,10,25,"Undergraduate","Unconfident",77803,22,"Extremely High","Happy",88.37
+228,4,0,24,"Undergraduate","Confident",95656,49,"Extremely High","Happy",49.47
+114,1,7,30,"Graduate","Unconfident",214294,34,"Low","Unhappy",136.06
+3,2,6,21,"High School","Confident",50150,24,"Extremely High","Happy",108.28
+208,1,0,21,"High School","Unconfident",40359,42,"High","Unhappy",93.28
+25,0,8,26,"Graduate","Extremely Confident",147754,25,"High","Happy",88.23
+150,3,10,23,"Undergraduate","Confident",53700,23,"High","Happy",128.37
+278,4,8,22,"Graduate","Unconfident",86875,32,"Extremely High","Happy",44.29
+243,4,10,34,"Graduate","Extremely Confident",129766,48,"Extremely High","Extremely Unhappy",134.19
+235,0,7,19,"High School","Unconfident",51950,28,"Extremely Low","Extremely Unhappy",103.27
+236,5,6,30,"Undergraduate","Unconfident",53237,54,"Extremely Low","Extremely Happy",48.35
+276,1,8,24,"Graduate","Confident",89474,46,"Extremely High","Unhappy",111.86
+31,3,8,19,"High School","Confident",63920,23,"Low","Happy",95.33
+288,1,0,26,"Undergraduate","Confident",104435,41,"High","Extremely Unhappy",48.21
+55,1,9,28,"Undergraduate","Confident",100442,38,"Extremely Low","Extremely Unhappy",35.39
+235,4,8,26,"Graduate","Unconfident",205804,49,"Extremely High","Happy",146.91
+148,2,8,19,"High School","Unconfident",57879,39,"Low","Happy",83.37
+126,3,8,22,"Undergraduate","Extremely Unconfident",103308,17,"Extremely High","Extremely Happy",89.29
+45,1,1,38,"Doctorate","Extremely Unconfident",240596,13,"High","Extremely Unhappy",119.59
+57,2,8,30,"Graduate","Unconfident",229262,11,"Extremely High","Unhappy",135.98
+254,4,7,27,"Graduate","Extremely Unconfident",230275,30,"Low","Extremely Happy",85.59
+95,4,6,29,"Undergraduate","Unconfident",81663,31,"Extremely Low","Happy",43.71
+229,4,2,31,"Undergraduate","Confident",70717,27,"Extremely High","Happy",44.23
+242,5,10,31,"Graduate","Confident",246693,36,"Low","Extremely Unhappy",91.61
+153,0,5,22,"Graduate","Unconfident",218591,25,"High","Happy",121.11
+100,5,1,29,"Undergraduate","Extremely Unconfident",71390,30,"Extremely High","Extremely Happy",98.51
+36,1,3,24,"Graduate","Confident",134398,54,"Low","Extremely Unhappy",92.64
+195,1,10,33,"Doctorate","Extremely Unconfident",225322,40,"Low","Extremely Unhappy",146.58
+67,4,1,30,"Undergraduate","Unconfident",60942,33,"Extremely High","Unhappy",134.4
+72,0,2,30,"Undergraduate","Unconfident",55020,32,"Extremely High","Happy",70.26
+99,5,5,22,"Graduate","Extremely Unconfident",194349,30,"High","Happy",172.64
+175,2,3,28,"Undergraduate","Unconfident",108094,12,"Extremely High","Extremely Unhappy",36.61
+222,5,1,31,"Graduate","Confident",164118,26,"Extremely Low","Happy",71.91
+162,3,9,25,"Undergraduate","Unconfident",63889,44,"Extremely High","Unhappy",140.13
+110,1,7,29,"Graduate","Extremely Unconfident",97796,31,"Extremely Low","Happy",130.25
+32,1,10,21,"High School","Unconfident",48528,32,"Extremely High","Unhappy",175.28
+165,3,1,19,"High School","Unconfident",57121,22,"Extremely High","Unhappy",106.58
+65,4,4,24,"Graduate","Extremely Unconfident",161166,37,"Extremely High","Extremely Unhappy",136.22
+76,0,7,28,"Graduate","Unconfident",192419,38,"High","Happy",165.34
+263,0,8,31,"Undergraduate","Extremely Unconfident",90420,48,"Extremely Low","Happy",131.15
+179,3,0,21,"High School","Unconfident",45116,47,"Low","Unhappy",107.41
+175,2,6,26,"Undergraduate","Extremely Unconfident",109167,15,"Extremely High","Extremely Unhappy",140.82
+156,4,7,19,"High School","Confident",52414,46,"Extremely High","Happy",150.95
+287,3,5,31,"Undergraduate","Unconfident",60556,45,"High","Happy",87.94
+128,3,7,25,"Undergraduate","Extremely Confident",102341,22,"High","Unhappy",75.23
+154,1,5,26,"Undergraduate","Unconfident",106947,35,"Extremely High","Unhappy",60.62
+230,2,0,26,"Graduate","Extremely Confident",104533,42,"Extremely High","Happy",102.96
+81,5,6,26,"Graduate","Unconfident",146227,52,"Extremely High","Extremely Unhappy",90.78
+13,5,0,21,"High School","Unconfident",43108,35,"Extremely Low","Extremely Happy",94.49
+22,0,0,21,"High School","Confident",33796,29,"Extremely High","Extremely Unhappy",76.81
+1,2,6,21,"High School","Unconfident",69865,27,"High","Unhappy",132.6
+256,4,4,25,"Undergraduate","Unconfident",82051,41,"High","Happy",55.06
+160,5,4,36,"Doctorate","Unconfident",231966,44,"Extremely Low","Happy",114.34
+216,5,10,28,"Graduate","Unconfident",95260,42,"High","Happy",75.96
+266,4,1,31,"Undergraduate","Extremely Confident",65530,43,"High","Extremely Unhappy",150.43
+8,3,5,33,"Graduate","Unconfident",222971,41,"High","Unhappy",79.62
+130,5,1,26,"Graduate","Unconfident",200651,27,"Extremely High","Unhappy",37.19
+245,2,1,27,"Undergraduate","Extremely Unconfident",85478,35,"Low","Happy",114.98
+151,5,5,20,"Undergraduate","Extremely Unconfident",86485,36,"Extremely High","Unhappy",126.57
+15,1,4,21,"Undergraduate","Extremely Unconfident",118148,33,"Extremely Low","Happy",50.24
+53,0,6,22,"Undergraduate","Confident",72867,43,"High","Happy",198.42
+208,3,7,34,"Doctorate","Extremely Unconfident",250360,46,"High","Happy",38.43
+222,2,2,24,"Graduate","Extremely Unconfident",97266,35,"Extremely High","Happy",52.66
+163,4,2,24,"Undergraduate","Confident",112510,30,"Extremely Low","Unhappy",94.39
+196,0,7,21,"High School","Extremely Unconfident",61198,45,"High","Extremely Unhappy",143.11
+252,0,2,30,"Graduate","Unconfident",218607,26,"Low","Happy",93.45
+298,0,10,22,"Undergraduate","Extremely Unconfident",75098,13,"Extremely Low","Unhappy",49.44
+171,3,5,22,"Undergraduate","Confident",84083,21,"Low","Extremely Happy",146.85
+37,4,7,21,"High School","Unconfident",54426,26,"High","Unhappy",100.58
+300,3,7,27,"Graduate","Confident",183833,40,"High","Unhappy",42.52
+46,4,7,20,"High School","Unconfident",61300,26,"High","Unhappy",166.67
+23,1,1,34,"Graduate","Confident",224655,14,"High","Happy",98.95
+223,5,5,20,"High School","Unconfident",60040,47,"Extremely High","Unhappy",169.99
+134,0,1,27,"Graduate","Extremely Unconfident",204701,22,"Extremely High","Extremely Unhappy",53.7
+40,3,4,28,"Undergraduate","Unconfident",117374,46,"High","Extremely Happy",88.97
+106,4,8,23,"Undergraduate","Extremely Confident",78663,15,"Low","Unhappy",110.04
+99,1,10,35,"Graduate","Unconfident",90689,40,"High","Happy",105.31
+201,0,6,36,"Doctorate","Confident",252963,43,"Low","Unhappy",37.91
+156,2,8,34,"Graduate","Extremely Unconfident",125109,33,"Extremely High","Extremely Unhappy",82.03
+53,5,1,32,"Doctorate","Unconfident",220162,18,"Low","Extremely Unhappy",75.3
+143,2,3,25,"Undergraduate","Confident",72208,33,"High","Extremely Unhappy",86.98
+272,3,3,20,"High School","Unconfident",48914,26,"Low","Unhappy",167.81
+90,5,4,28,"Graduate","Unconfident",155244,26,"High","Happy",39.88
+7,2,8,35,"Doctorate","Unconfident",283213,26,"High","Extremely Unhappy",88.27
+23,1,0,27,"Graduate","Confident",211888,23,"High","Unhappy",147.75
+130,3,0,31,"Graduate","Unconfident",241656,51,"Extremely Low","Extremely Happy",40.26
+171,1,6,25,"Graduate","Unconfident",184112,36,"High","Extremely Happy",109.15
+18,3,4,22,"Graduate","Extremely Unconfident",164205,43,"High","Extremely Unhappy",47.54
+18,5,4,26,"Undergraduate","Unconfident",65943,41,"Extremely High","Extremely Happy",74.15
+23,2,8,27,"High School","Unconfident",44422,32,"Low","Happy",92.78
+93,4,10,29,"Undergraduate","Extremely Unconfident",118478,34,"Extremely Low","Extremely Happy",136.41
+143,3,0,28,"Undergraduate","Extremely Unconfident",86786,24,"High","Happy",47.16
+240,2,4,21,"High School","Unconfident",54708,36,"High","Happy",87.84
+283,5,2,19,"High School","Extremely Unconfident",57860,48,"Low","Extremely Happy",169.34
+127,3,9,28,"Undergraduate","Unconfident",98702,14,"High","Happy",124.28
+94,1,9,23,"Graduate","Unconfident",204231,31,"High","Happy",99.63
+103,3,5,22,"Graduate","Unconfident",193341,47,"Low","Happy",48.3
+63,0,5,29,"Graduate","Extremely Unconfident",215824,22,"High","Happy",83.26
+35,3,9,22,"High School","Unconfident",67673,23,"Low","Extremely Happy",101.75
+277,0,3,30,"Undergraduate","Extremely Unconfident",63467,32,"Extremely High","Unhappy",50.23
+55,2,4,23,"High School","Extremely Unconfident",68740,48,"Extremely High","Extremely Unhappy",102.8
+126,1,3,36,"Graduate","Confident",92369,22,"Extremely High","Happy",104.05
+284,1,0,29,"Graduate","Extremely Unconfident",141697,49,"Extremely High","Unhappy",108.02
+53,1,9,26,"Graduate","Unconfident",108303,42,"Low","Extremely Unhappy",126.67
+69,1,9,26,"Undergraduate","Confident",68933,13,"High","Happy",55.77
+290,2,1,23,"Graduate","Unconfident",122535,22,"High","Extremely Unhappy",47.82
+185,0,8,24,"Undergraduate","Confident",113288,55,"Extremely High","Extremely Happy",80.02
+196,4,4,25,"Graduate","Unconfident",193036,44,"High","Happy",48.26
+155,0,5,30,"Undergraduate","Extremely Confident",103452,30,"Extremely High","Unhappy",134.79
+80,4,9,29,"Graduate","Extremely Unconfident",195541,21,"Low","Happy",109.04
+49,3,2,24,"Undergraduate","Extremely Unconfident",86745,28,"Extremely High","Happy",90.33
+107,4,1,21,"Undergraduate","Unconfident",98009,27,"High","Unhappy",74.53
+68,4,5,29,"Undergraduate","Extremely Unconfident",97259,49,"Low","Extremely Unhappy",133.33
+12,3,3,27,"Undergraduate","Unconfident",107458,39,"Extremely High","Extremely Happy",144.36
+295,3,5,27,"Undergraduate","Unconfident",67422,28,"High","Unhappy",100.51
+98,4,4,23,"Undergraduate","Extremely Unconfident",73551,26,"High","Happy",146.73
+222,4,7,23,"Undergraduate","Unconfident",92810,26,"Low","Unhappy",91.86
+168,4,9,23,"Undergraduate","Unconfident",111460,30,"High","Happy",166.56
+144,2,4,21,"High School","Extremely Unconfident",34845,25,"Low","Happy",119.23
+129,3,8,28,"Graduate","Unconfident",111791,27,"Low","Extremely Unhappy",104.21
+265,0,9,31,"Graduate","Unconfident",175169,46,"Extremely Low","Extremely Unhappy",47.37
+297,4,1,21,"High School","Extremely Unconfident",44533,5,"Low","Extremely Unhappy",44.95
+94,0,7,26,"Graduate","Confident",134036,40,"Low","Unhappy",47.26
+270,2,2,23,"High School","Unconfident",56267,27,"High","Extremely Unhappy",165.3
+83,0,9,23,"Graduate","Extremely Confident",238598,40,"High","Extremely Unhappy",184.31
+205,0,9,31,"Undergraduate","Extremely Unconfident",53320,29,"Extremely Low","Happy",130.91
+216,2,1,23,"Graduate","Unconfident",231698,27,"High","Happy",91.69
+256,5,6,23,"Undergraduate","Extremely Unconfident",59320,43,"Low","Happy",144.17
+293,5,3,30,"Graduate","Extremely Unconfident",143027,37,"Extremely Low","Unhappy",125.99
+292,1,4,24,"Undergraduate","Unconfident",78571,36,"Extremely High","Extremely Unhappy",115.03
+59,1,8,23,"Undergraduate","Extremely Unconfident",100897,28,"Extremely High","Happy",96.05
+195,2,4,22,"Undergraduate","Extremely Confident",105155,53,"Low","Happy",40.91
+221,4,5,21,"High School","Confident",55309,49,"Extremely High","Unhappy",87.07
+199,4,7,22,"Undergraduate","Unconfident",84604,26,"High","Happy",47.43
+93,1,4,23,"Undergraduate","Confident",87978,16,"High","Extremely Unhappy",116.13
+17,2,2,22,"Graduate","Unconfident",105659,45,"Extremely High","Unhappy",113.89
+214,2,4,25,"Undergraduate","Unconfident",97108,29,"Low","Happy",53.34
+12,2,6,27,"High School","Extremely Unconfident",55199,42,"High","Extremely Happy",96.93
+86,1,7,29,"High School","Extremely Confident",65852,35,"High","Unhappy",96.63
+87,1,6,27,"Graduate","Confident",145357,31,"High","Unhappy",91.42
+145,3,3,30,"High School","Extremely Unconfident",55213,34,"Extremely Low","Extremely Unhappy",96.79
+240,0,3,22,"Graduate","Unconfident",90735,48,"Extremely High","Happy",168.05
+157,0,3,21,"High School","Unconfident",50298,36,"Extremely High","Extremely Unhappy",87.67
+34,0,4,23,"Undergraduate","Unconfident",63242,18,"Low","Extremely Unhappy",92.4
+263,2,9,25,"Graduate","Unconfident",245282,25,"Low","Happy",40.04
+40,1,3,28,"Undergraduate","Unconfident",83923,40,"Low","Unhappy",68.9
+143,0,2,25,"Undergraduate","Extremely Unconfident",81495,30,"Extremely Low","Extremely Happy",168.14
+157,3,3,27,"Undergraduate","Unconfident",72744,34,"Extremely High","Happy",135.55
+240,1,10,24,"Graduate","Unconfident",101775,14,"Low","Unhappy",36.91
+108,4,6,20,"High School","Confident",43919,43,"Extremely Low","Happy",143.28
+39,0,2,26,"Undergraduate","Unconfident",58374,42,"Low","Extremely Unhappy",104.28
+54,5,9,28,"Undergraduate","Extremely Unconfident",63069,39,"High","Extremely Happy",88.91
+155,0,8,28,"Undergraduate","Extremely Unconfident",104779,50,"Extremely Low","Happy",79.05
+18,5,2,27,"Graduate","Confident",226617,28,"Low","Happy",42.21
+202,1,6,25,"Undergraduate","Extremely Unconfident",69933,25,"Extremely High","Unhappy",109.98
+26,1,7,33,"Graduate","Extremely Unconfident",161954,36,"Extremely Low","Extremely Happy",142.36
+167,0,4,30,"Undergraduate","Unconfident",98216,19,"High","Extremely Unhappy",100.89
+194,0,10,31,"Undergraduate","Extremely Unconfident",110444,50,"Extremely High","Extremely Happy",147.47
+272,4,4,26,"Graduate","Confident",98411,28,"Low","Happy",76.78
+52,3,7,32,"Doctorate","Extremely Unconfident",259112,35,"Low","Unhappy",136.33
+145,3,1,29,"Undergraduate","Extremely Unconfident",71526,30,"Extremely High","Happy",45.09
+32,4,4,19,"Undergraduate","Confident",80508,26,"High","Happy",45.72
+16,2,3,28,"Undergraduate","Extremely Unconfident",86046,25,"High","Extremely Happy",77.54
+213,0,4,22,"Graduate","Extremely Unconfident",134589,42,"Extremely High","Extremely Unhappy",126.57
+282,3,10,24,"Graduate","Unconfident",205207,29,"Extremely High","Unhappy",99.97
+8,5,8,19,"High School","Extremely Unconfident",53867,0,"Low","Happy",41.58
+207,3,1,20,"High School","Extremely Unconfident",31147,36,"Extremely Low","Extremely Unhappy",182.58
+182,2,2,25,"Undergraduate","Unconfident",94759,29,"High","Extremely Unhappy",46.48
+3,1,5,26,"Undergraduate","Confident",117336,30,"Low","Extremely Unhappy",55.43
+278,2,3,21,"High School","Extremely Unconfident",39812,34,"Extremely Low","Happy",108.25
+200,4,5,24,"Undergraduate","Extremely Unconfident",104775,32,"Low","Happy",73.98
+290,0,9,23,"Graduate","Unconfident",135233,40,"Low","Extremely Happy",86.28
+246,2,10,28,"Graduate","Extremely Unconfident",222911,37,"High","Extremely Unhappy",135.58
+138,4,2,26,"Undergraduate","Unconfident",82672,44,"High","Unhappy",114.71
+8,0,6,23,"Undergraduate","Extremely Confident",84855,22,"High","Extremely Happy",48.74
+61,5,1,23,"Graduate","Unconfident",237594,10,"Low","Happy",125.11
+2,1,6,21,"High School","Extremely Unconfident",48482,40,"Low","Happy",42.22
+3,4,3,28,"Graduate","Extremely Confident",202178,28,"High","Happy",93.22
+25,0,4,26,"Undergraduate","Confident",106364,34,"Extremely High","Unhappy",90.38
+275,5,8,24,"Graduate","Confident",111867,41,"Low","Unhappy",93.52
+244,0,7,24,"High School","Extremely Unconfident",46115,28,"High","Unhappy",38.36
+59,0,4,27,"Graduate","Extremely Unconfident",151353,29,"Extremely Low","Extremely Happy",90.06
+124,0,8,22,"Undergraduate","Extremely Unconfident",100905,26,"Low","Happy",84.34
+3,3,6,30,"Undergraduate","Unconfident",85667,39,"Extremely High","Unhappy",65.54
+65,4,0,32,"Graduate","Extremely Confident",145035,40,"Extremely High","Happy",98.16
+282,0,1,26,"Undergraduate","Unconfident",93300,26,"Low","Happy",49.52
+289,0,6,28,"Undergraduate","Extremely Confident",103936,38,"Low","Unhappy",56.12
+213,0,0,25,"Graduate","Unconfident",162947,28,"High","Extremely Happy",141.02
+294,3,9,25,"Undergraduate","Extremely Confident",87816,32,"High","Extremely Happy",183.75
+105,2,6,29,"Undergraduate","Unconfident",105774,33,"High","Unhappy",133.8
+122,0,6,24,"High School","Confident",53893,41,"Low","Happy",125.81
+111,1,1,20,"Undergraduate","Extremely Confident",56426,16,"Low","Unhappy",85.24
+114,0,3,28,"Undergraduate","Extremely Confident",112178,20,"High","Extremely Unhappy",47.61
+53,4,5,20,"High School","Unconfident",42751,25,"Extremely High","Unhappy",156.94
+228,3,7,29,"Graduate","Confident",126890,33,"Low","Unhappy",105.46
+149,1,10,23,"Undergraduate","Extremely Unconfident",105128,37,"High","Unhappy",82.79
+253,5,6,32,"Graduate","Extremely Confident",115438,38,"Extremely High","Extremely Unhappy",179.39
+96,1,2,19,"High School","Extremely Unconfident",33425,25,"High","Happy",182.98
+153,0,2,31,"Undergraduate","Unconfident",117857,31,"High","Unhappy",97.31
+76,2,9,20,"Undergraduate","Confident",61305,34,"High","Unhappy",37.1
+238,1,5,36,"Graduate","Confident",200503,33,"Low","Happy",99.96
+120,2,3,19,"High School","Unconfident",38682,16,"High","Unhappy",102.59
+224,5,4,29,"Graduate","Confident",166959,35,"Extremely High","Extremely Unhappy",117.33
+16,2,5,27,"Undergraduate","Extremely Unconfident",119797,26,"High","Extremely Happy",129.6
+12,4,3,31,"Graduate","Extremely Unconfident",191196,28,"High","Unhappy",119.18
+22,0,3,30,"High School","Unconfident",31011,35,"Low","Extremely Happy",82.31
+256,0,1,20,"High School","Unconfident",47456,30,"Extremely Low","Happy",150.83
+92,5,9,27,"High School","Unconfident",64987,16,"Low","Unhappy",52.81
+4,4,1,29,"Undergraduate","Extremely Unconfident",79032,39,"Extremely High","Extremely Unhappy",43.77
+59,0,5,29,"Undergraduate","Extremely Confident",69705,44,"Extremely High","Happy",199.58
+194,0,6,19,"High School","Unconfident",57314,30,"High","Unhappy",47.51
+194,4,10,23,"Graduate","Unconfident",97414,32,"High","Extremely Unhappy",102.6
+220,0,10,28,"Undergraduate","Unconfident",78346,24,"Extremely Low","Happy",69.34
+94,3,10,21,"Undergraduate","Unconfident",77348,39,"Extremely High","Happy",140.77
+208,4,0,28,"Undergraduate","Extremely Confident",69206,32,"Low","Happy",127.87
+3,4,6,30,"Undergraduate","Extremely Unconfident",94241,33,"Extremely High","Unhappy",117.19
+185,1,8,28,"Undergraduate","Unconfident",76239,27,"High","Unhappy",178.12
+142,3,7,27,"High School","Extremely Unconfident",35976,26,"High","Happy",46.98
+69,2,0,27,"Graduate","Extremely Unconfident",241148,45,"High","Unhappy",90.08
+282,5,10,24,"Graduate","Unconfident",200211,32,"High","Happy",133.71
+202,2,10,31,"Graduate","Confident",156788,33,"Low","Happy",88.34
+111,3,8,27,"Undergraduate","Unconfident",77557,26,"Extremely High","Happy",109.03
+220,0,7,33,"Doctorate","Extremely Confident",290546,51,"High","Happy",166.4
+222,1,2,23,"Graduate","Confident",141878,38,"High","Unhappy",89.32
+260,3,5,33,"Doctorate","Extremely Confident",299860,37,"Low","Unhappy",114.44
+194,1,2,25,"High School","Confident",36398,25,"Low","Happy",81.01
+207,1,3,20,"High School","Unconfident",44264,26,"High","Unhappy",111.65
+43,2,9,22,"Graduate","Extremely Unconfident",151794,36,"Low","Unhappy",61.09
+259,3,5,22,"Graduate","Extremely Unconfident",243784,38,"High","Unhappy",48.04
+180,0,7,21,"High School","Confident",52145,22,"High","Happy",88.54
+164,3,0,29,"Graduate","Unconfident",183908,28,"High","Extremely Unhappy",219.51
+60,2,6,34,"Doctorate","Unconfident",180690,19,"Low","Happy",51.85
+219,3,9,29,"Undergraduate","Extremely Unconfident",116838,44,"Low","Unhappy",86.41
+116,3,3,23,"Graduate","Unconfident",111268,47,"High","Extremely Happy",169.46
+170,1,1,19,"Undergraduate","Unconfident",105204,48,"Extremely High","Happy",52.35
+225,4,2,29,"Graduate","Unconfident",186568,31,"Extremely High","Unhappy",83.68
+259,2,10,38,"Graduate","Unconfident",80675,36,"High","Unhappy",187.49
+32,1,5,23,"Undergraduate","Unconfident",112068,50,"Extremely Low","Unhappy",82.89
+202,4,3,19,"High School","Unconfident",63630,28,"High","Unhappy",45.59
+61,4,0,23,"Undergraduate","Extremely Unconfident",94588,22,"High","Happy",41.8
+143,5,0,29,"Undergraduate","Confident",64711,41,"High","Happy",105.12
+53,0,8,29,"Graduate","Confident",128079,40,"Low","Happy",96.92
+167,1,1,26,"Undergraduate","Confident",67483,45,"Extremely Low","Extremely Unhappy",109.07
+53,0,4,30,"Undergraduate","Extremely Unconfident",118548,39,"High","Happy",45.69
+47,0,2,22,"Undergraduate","Unconfident",106544,15,"High","Extremely Happy",151.58
+269,4,8,19,"High School","Extremely Confident",48727,24,"Low","Unhappy",98.34
+168,4,10,23,"Graduate","Confident",170904,14,"Extremely Low","Happy",120.14
+203,5,6,26,"Graduate","Confident",134635,29,"High","Happy",135.12
+55,0,5,24,"Graduate","Extremely Unconfident",202552,30,"Low","Extremely Unhappy",76.43
+9,2,7,23,"Undergraduate","Unconfident",116368,33,"Low","Extremely Unhappy",105.34
+116,3,1,31,"Graduate","Extremely Unconfident",101222,15,"High","Unhappy",139.05
+294,2,7,27,"Graduate","Extremely Unconfident",184717,27,"High","Happy",117.91
+69,4,3,24,"Graduate","Unconfident",134993,22,"High","Happy",60.99
+109,1,10,24,"Undergraduate","Confident",78062,29,"Extremely Low","Unhappy",123.76
+280,3,9,34,"High School","Extremely Unconfident",59199,34,"High","Unhappy",122.82
+207,4,5,19,"High School","Extremely Unconfident",44944,31,"Extremely High","Unhappy",78.64
+196,2,3,20,"High School","Confident",36597,29,"Extremely High","Unhappy",79.58
+198,0,7,22,"Undergraduate","Unconfident",115104,31,"High","Happy",82.67
+267,3,5,27,"Undergraduate","Confident",107974,38,"Extremely High","Extremely Unhappy",176.86
+191,5,2,24,"Undergraduate","Extremely Confident",64994,47,"Extremely High","Extremely Unhappy",93.6
+264,4,0,31,"Undergraduate","Confident",82648,33,"Extremely High","Unhappy",45.63
+77,5,6,26,"High School","Extremely Unconfident",69607,29,"Low","Happy",41.68
+99,5,5,23,"Graduate","Extremely Unconfident",98866,34,"Extremely High","Extremely Happy",49.01
+85,2,0,28,"Undergraduate","Confident",71600,25,"Low","Happy",195.23
+72,5,8,23,"Undergraduate","Unconfident",101249,43,"High","Happy",90.19
+31,1,10,21,"High School","Confident",43067,38,"Extremely High","Extremely Unhappy",108.65
+49,3,1,31,"Undergraduate","Confident",50293,39,"Low","Happy",126.44
+32,0,3,26,"High School","Confident",52636,23,"High","Unhappy",115.39
+227,2,9,22,"Graduate","Extremely Confident",126856,45,"High","Extremely Happy",85.21
+227,4,0,32,"Doctorate","Unconfident",216970,22,"Low","Extremely Unhappy",77.42
+240,4,10,25,"Undergraduate","Unconfident",64774,31,"High","Extremely Happy",111.57
+113,1,9,25,"Undergraduate","Extremely Unconfident",111730,41,"Low","Happy",125.55
+121,1,8,23,"Graduate","Extremely Unconfident",211128,41,"High","Extremely Happy",45.8
+134,3,2,31,"High School","Unconfident",62493,44,"High","Happy",35.83
+142,0,10,27,"Graduate","Unconfident",116201,31,"Low","Happy",116.54
+290,1,5,27,"Undergraduate","Extremely Confident",79331,29,"Extremely High","Extremely Happy",88.8
+259,1,8,23,"Graduate","Unconfident",170656,32,"Extremely High","Extremely Unhappy",85.73
+45,3,6,34,"Graduate","Extremely Unconfident",175747,37,"Extremely High","Extremely Unhappy",63.63
+129,1,10,28,"Undergraduate","Unconfident",64195,18,"Low","Unhappy",40.3
+227,3,0,22,"Graduate","Confident",125384,23,"Low","Happy",143.42
+85,0,2,22,"Undergraduate","Unconfident",68338,31,"High","Extremely Unhappy",104.55
+294,0,3,25,"Undergraduate","Extremely Unconfident",78235,26,"Extremely High","Unhappy",99.37
+92,5,2,19,"High School","Extremely Unconfident",33070,8,"High","Unhappy",106.28
+60,0,1,23,"Graduate","Unconfident",131576,42,"Extremely High","Extremely Happy",69.21
+234,2,8,28,"Undergraduate","Extremely Unconfident",85357,38,"Low","Extremely Happy",75.18
+223,2,10,24,"Undergraduate","Confident",60868,44,"Extremely Low","Happy",76.72
+249,1,6,23,"Undergraduate","Extremely Confident",82933,25,"Extremely High","Extremely Happy",80.53
+147,5,3,29,"Graduate","Unconfident",230985,23,"Low","Happy",92.73
+33,3,7,22,"Undergraduate","Extremely Confident",53272,37,"Extremely Low","Extremely Happy",42.99
+125,2,5,21,"Undergraduate","Extremely Unconfident",90785,28,"High","Happy",71.08
+244,0,5,19,"High School","Unconfident",59909,27,"High","Happy",135.71
+92,1,2,27,"Graduate","Unconfident",219053,41,"Extremely High","Unhappy",93.68
+189,2,7,19,"High School","Unconfident",39208,29,"Low","Happy",92.44
+16,5,0,28,"High School","Extremely Confident",48836,43,"Extremely High","Unhappy",89.29
+161,5,4,25,"High School","Confident",31256,4,"Low","Unhappy",74.12
+6,2,7,28,"Graduate","Unconfident",175255,13,"High","Extremely Unhappy",126.55
+252,2,8,19,"High School","Confident",67110,37,"Extremely High","Unhappy",111.84
+181,0,2,22,"Undergraduate","Extremely Unconfident",82554,32,"High","Happy",95.03
+141,4,6,28,"Graduate","Extremely Confident",159396,41,"Low","Happy",114.49
+299,0,9,35,"Graduate","Extremely Unconfident",131501,23,"High","Happy",40.94
+24,2,8,27,"Undergraduate","Unconfident",91535,36,"Extremely High","Unhappy",139.44
+232,5,2,26,"Undergraduate","Unconfident",114450,43,"Low","Extremely Unhappy",76.23
+143,3,6,24,"Undergraduate","Extremely Unconfident",101183,26,"High","Unhappy",95.9
+238,3,2,23,"Undergraduate","Extremely Unconfident",83720,23,"Extremely Low","Extremely Unhappy",198.46
+23,2,0,21,"High School","Extremely Unconfident",49745,27,"High","Unhappy",164
+292,4,4,27,"Graduate","Extremely Unconfident",237733,31,"Extremely High","Unhappy",96.43
+134,0,5,23,"Undergraduate","Extremely Unconfident",92685,37,"Low","Extremely Unhappy",43.19
+197,4,5,22,"Undergraduate","Confident",102820,20,"Extremely Low","Extremely Unhappy",120.21
+291,3,8,25,"Undergraduate","Unconfident",69906,32,"Extremely Low","Extremely Unhappy",86.37
+53,1,8,28,"Graduate","Extremely Confident",188493,36,"Extremely High","Unhappy",58.5
+294,0,3,31,"Undergraduate","Unconfident",85052,16,"High","Extremely Unhappy",74.17
+127,1,3,28,"Graduate","Unconfident",121399,22,"Extremely High","Unhappy",165.57
+147,4,1,25,"Undergraduate","Extremely Unconfident",119443,27,"Low","Extremely Happy",46.62
+17,3,2,25,"High School","Extremely Unconfident",48007,31,"High","Happy",113.07
+151,4,9,32,"Undergraduate","Unconfident",76078,30,"Extremely High","Happy",130.24
+292,2,0,22,"Undergraduate","Unconfident",96083,35,"High","Unhappy",109.36
+30,0,5,31,"Graduate","Extremely Confident",170259,45,"High","Extremely Happy",97.55
+15,3,5,23,"High School","Unconfident",62911,35,"Extremely Low","Unhappy",42.41
+278,2,4,20,"High School","Confident",53341,28,"Extremely High","Happy",140.86
+47,0,3,31,"Undergraduate","Confident",107789,19,"High","Happy",81.15
+250,4,6,28,"Undergraduate","Confident",82011,45,"High","Extremely Happy",135.78
+107,2,4,24,"Graduate","Extremely Unconfident",164875,48,"Extremely High","Extremely Unhappy",92.44
+105,2,5,30,"Undergraduate","Unconfident",98233,16,"High","Happy",41.47
+291,5,0,23,"Undergraduate","Unconfident",72614,32,"High","Happy",93.93
+239,4,2,27,"Graduate","Unconfident",175134,56,"Extremely Low","Happy",80.28
+11,0,3,28,"Graduate","Extremely Confident",219604,37,"Extremely High","Happy",100.62
+156,0,0,21,"High School","Extremely Unconfident",39815,31,"High","Unhappy",45.6
+253,1,7,27,"High School","Extremely Unconfident",44123,22,"Extremely Low","Unhappy",82.79
+185,3,7,28,"Graduate","Unconfident",151466,18,"Low","Happy",109.64
+187,2,4,31,"Undergraduate","Unconfident",87927,24,"High","Extremely Unhappy",102.26
+71,0,10,32,"Undergraduate","Confident",111558,28,"Extremely High","Extremely Unhappy",105.2
+196,2,7,21,"High School","Confident",50296,40,"High","Unhappy",103.31
+266,3,4,22,"Undergraduate","Extremely Unconfident",72202,44,"High","Extremely Unhappy",151.97
+81,0,3,21,"High School","Extremely Unconfident",64917,29,"Low","Happy",95.75
+71,4,5,22,"Undergraduate","Unconfident",86472,40,"Extremely High","Happy",52.99
+198,4,0,21,"Undergraduate","Confident",107568,25,"Extremely High","Happy",107.34
+218,0,5,21,"High School","Extremely Unconfident",53091,27,"High","Unhappy",85.67
+211,0,10,23,"Undergraduate","Unconfident",90183,30,"Extremely High","Happy",160.98
+100,0,10,29,"Graduate","Unconfident",136065,23,"Low","Unhappy",117.57
+239,5,8,34,"Graduate","Unconfident",204201,27,"Extremely High","Unhappy",137.29
+54,1,9,26,"Undergraduate","Extremely Unconfident",63633,56,"Extremely High","Unhappy",99.24
+121,0,7,27,"Undergraduate","Confident",52453,32,"Low","Happy",97.72
+18,3,6,22,"Graduate","Confident",123348,25,"High","Happy",98.83
+180,1,6,32,"Undergraduate","Unconfident",116580,20,"High","Unhappy",63.4
+296,5,10,28,"Undergraduate","Extremely Unconfident",97965,39,"High","Unhappy",117.32
+56,5,6,25,"Graduate","Confident",242620,28,"Low","Happy",49.23
+25,2,2,25,"Undergraduate","Confident",112884,30,"Low","Extremely Unhappy",156.99
+245,3,4,30,"Graduate","Confident",133753,40,"Extremely High","Happy",85.15
+184,0,1,22,"Undergraduate","Unconfident",109453,31,"Extremely High","Extremely Unhappy",66.85
+246,2,6,37,"Doctorate","Unconfident",292010,35,"High","Unhappy",48.57
+236,2,4,24,"Undergraduate","Extremely Confident",84616,17,"Low","Happy",117.07
+46,3,5,30,"High School","Extremely Unconfident",30956,41,"Extremely High","Unhappy",82.23
+260,4,1,27,"High School","Unconfident",60315,30,"Extremely High","Extremely Unhappy",98.99
+275,0,7,37,"Graduate","Unconfident",218680,48,"Extremely High","Unhappy",157.3
+125,5,6,20,"Undergraduate","Extremely Unconfident",88837,45,"Extremely High","Extremely Unhappy",86.35
+262,1,9,28,"Undergraduate","Extremely Confident",117382,15,"High","Happy",43.27
+265,0,1,25,"Undergraduate","Extremely Unconfident",111739,41,"Extremely Low","Happy",99.98
+230,1,2,23,"High School","Unconfident",37512,20,"Extremely Low","Happy",77.48
+232,1,5,29,"Graduate","Extremely Unconfident",190966,29,"Extremely Low","Happy",91.4
+275,2,5,23,"Undergraduate","Extremely Unconfident",115404,37,"Extremely Low","Extremely Happy",36.2
+137,2,2,34,"Doctorate","Confident",258818,38,"Extremely High","Happy",52.85
+83,2,10,27,"Graduate","Confident",124141,39,"High","Extremely Happy",124.98
+271,3,3,21,"Undergraduate","Unconfident",72786,42,"High","Extremely Happy",157.35
+262,4,7,22,"Graduate","Unconfident",220452,32,"High","Happy",44.04
+35,2,1,25,"High School","Confident",51383,38,"Low","Unhappy",153.8
+141,4,7,26,"Undergraduate","Extremely Unconfident",53178,26,"High","Unhappy",74.82
+260,0,2,31,"Undergraduate","Unconfident",50528,12,"High","Unhappy",104.59
+176,2,8,25,"Undergraduate","Confident",96700,34,"High","Happy",37.95
+235,2,4,33,"Doctorate","Confident",277371,33,"Low","Happy",141.73
+137,5,3,28,"Undergraduate","Unconfident",66246,39,"Extremely High","Unhappy",103.59
+151,4,9,29,"Undergraduate","Extremely Unconfident",72401,18,"Low","Happy",79.21
+210,1,0,24,"Undergraduate","Extremely Unconfident",93089,12,"Low","Extremely Unhappy",193.81
+193,1,2,27,"Graduate","Unconfident",144835,32,"High","Extremely Unhappy",101.73
+83,4,4,24,"High School","Extremely Confident",66145,19,"High","Extremely Happy",50.26
+87,5,10,33,"Graduate","Extremely Confident",153725,47,"Low","Extremely Unhappy",77.31
+47,3,7,25,"Graduate","Unconfident",118715,35,"Extremely High","Extremely Unhappy",89.97
+171,2,8,25,"Undergraduate","Extremely Confident",109008,33,"Extremely High","Unhappy",105.9
+137,3,1,27,"Undergraduate","Extremely Unconfident",56203,48,"High","Happy",52.49
+240,0,6,23,"Undergraduate","Extremely Unconfident",90196,33,"Extremely High","Unhappy",116.79
+236,5,7,31,"Undergraduate","Unconfident",103176,21,"Extremely High","Extremely Happy",55.02
+101,3,10,23,"Graduate","Confident",229827,37,"Extremely High","Unhappy",119.61
+39,1,6,22,"Undergraduate","Extremely Unconfident",116784,32,"Extremely Low","Happy",93.08
+82,4,10,21,"High School","Confident",43937,28,"Extremely High","Unhappy",45.43
+283,1,4,24,"Undergraduate","Extremely Confident",73059,36,"High","Happy",49.39
+229,5,4,27,"Undergraduate","Extremely Unconfident",54567,40,"Low","Extremely Unhappy",91.04
+67,0,1,31,"Graduate","Extremely Confident",139618,32,"Extremely High","Happy",110.98
+208,0,2,30,"Undergraduate","Extremely Unconfident",104265,27,"Extremely Low","Extremely Unhappy",99.43
+144,1,7,25,"Graduate","Extremely Confident",93250,21,"High","Unhappy",87.65
+240,3,1,27,"High School","Extremely Unconfident",36367,40,"Extremely High","Happy",54.12
+1,1,3,21,"High School","Unconfident",42060,41,"High","Happy",110.14
+100,5,0,29,"Graduate","Confident",103887,30,"Extremely High","Extremely Happy",131
+129,2,7,22,"High School","Unconfident",50836,45,"Extremely High","Unhappy",114.67
+172,3,3,26,"Undergraduate","Unconfident",84401,26,"Extremely Low","Unhappy",116.39
+123,1,4,32,"Undergraduate","Unconfident",104683,25,"High","Happy",118.59
+17,3,9,33,"Doctorate","Unconfident",185767,23,"Extremely High","Unhappy",90.47
+109,0,2,35,"Undergraduate","Extremely Unconfident",82666,47,"Extremely High","Extremely Unhappy",80.33
+192,3,3,35,"Doctorate","Extremely Confident",255422,38,"Extremely Low","Unhappy",50.49
+142,2,4,25,"Graduate","Unconfident",126096,50,"Extremely High","Happy",216.8
+27,5,7,26,"Undergraduate","Extremely Unconfident",66803,31,"Extremely High","Happy",97.04
+245,4,8,27,"Undergraduate","Extremely Confident",59844,38,"Low","Unhappy",180.43
+72,5,8,20,"High School","Extremely Confident",58311,28,"High","Happy",174.93
+269,3,1,29,"Undergraduate","Extremely Unconfident",50680,29,"Extremely High","Happy",83.86
+42,1,9,28,"Undergraduate","Unconfident",60436,23,"Extremely High","Unhappy",47.03
+216,1,9,25,"Undergraduate","Extremely Unconfident",105058,28,"High","Unhappy",40.21
+287,5,9,29,"Undergraduate","Unconfident",76834,18,"Extremely High","Happy",99.68
+286,2,9,20,"High School","Confident",30631,47,"High","Happy",132.03
+227,0,3,24,"Graduate","Confident",129844,35,"High","Extremely Unhappy",86.04
+55,3,3,31,"High School","Extremely Unconfident",35891,16,"High","Extremely Happy",83.66
+224,1,9,29,"Undergraduate","Extremely Confident",110009,32,"Low","Happy",87.21
+44,1,0,21,"Undergraduate","Extremely Unconfident",77065,33,"Low","Extremely Unhappy",145.44
+134,1,3,28,"Graduate","Extremely Unconfident",181702,20,"Extremely High","Extremely Unhappy",94.83
+90,1,4,22,"Undergraduate","Unconfident",113662,27,"Extremely Low","Unhappy",51.33
+244,1,2,23,"Graduate","Extremely Confident",151743,45,"Low","Happy",105.8
+12,5,7,24,"Undergraduate","Extremely Unconfident",54829,47,"High","Extremely Happy",75.84
+294,4,3,24,"Graduate","Extremely Unconfident",161986,31,"Low","Extremely Happy",105.82
+267,2,1,20,"Undergraduate","Unconfident",94127,21,"High","Unhappy",150.28
+182,4,6,27,"High School","Unconfident",38858,17,"Low","Unhappy",152.14
+1,3,2,21,"High School","Extremely Unconfident",33487,22,"Extremely High","Extremely Unhappy",152.34
+293,2,3,21,"High School","Confident",43156,49,"Low","Extremely Unhappy",146.27
+267,1,6,24,"Undergraduate","Unconfident",106773,35,"Low","Extremely Happy",50.87
+2,5,1,23,"Undergraduate","Unconfident",67047,23,"Extremely High","Happy",168.37
+208,0,1,33,"Graduate","Extremely Unconfident",178450,31,"Extremely High","Extremely Unhappy",98.78
+33,0,3,31,"Undergraduate","Confident",100465,24,"Low","Happy",144.06
+1,5,9,19,"High School","Unconfident",68752,35,"Low","Unhappy",135.46
+26,0,10,24,"Graduate","Extremely Confident",225687,23,"High","Unhappy",121.1
+241,4,0,22,"Graduate","Extremely Unconfident",179010,17,"Low","Happy",174.14
+158,3,8,25,"Graduate","Confident",221902,25,"High","Extremely Unhappy",91.97
+94,1,2,20,"High School","Confident",33491,15,"High","Extremely Unhappy",118.67
+197,3,1,25,"Graduate","Extremely Unconfident",228156,41,"Extremely High","Happy",64.85
+242,4,7,24,"Graduate","Confident",241847,27,"High","Unhappy",95.04
+93,0,4,22,"Undergraduate","Extremely Unconfident",82496,26,"High","Happy",51.45
+210,5,5,23,"Undergraduate","Unconfident",85966,30,"Low","Happy",146.1
+119,0,7,25,"Undergraduate","Extremely Unconfident",101045,29,"Extremely High","Extremely Unhappy",97.41
+265,1,7,28,"High School","Unconfident",52340,38,"High","Unhappy",132.93
+153,2,7,29,"Graduate","Confident",102971,26,"High","Extremely Unhappy",88.04
+91,0,3,31,"Graduate","Unconfident",197293,24,"High","Happy",92.96
+265,2,7,29,"Undergraduate","Confident",78371,32,"High","Happy",108.65
+296,1,4,27,"Graduate","Extremely Unconfident",209478,29,"High","Happy",83.79
+290,0,6,26,"Graduate","Confident",172825,47,"Extremely High","Extremely Unhappy",78.98
+198,2,6,29,"Graduate","Confident",102620,45,"Extremely High","Happy",51.03
+242,2,5,27,"Undergraduate","Extremely Unconfident",85078,26,"Low","Unhappy",196.45
+117,4,0,22,"Graduate","Unconfident",215283,31,"High","Unhappy",150.09
+160,0,2,19,"High School","Unconfident",68038,53,"High","Happy",100.42
+108,3,1,37,"Graduate","Extremely Unconfident",105303,42,"High","Happy",145.17
+238,2,2,21,"High School","Extremely Unconfident",44059,24,"High","Extremely Happy",92.29
+98,5,9,30,"Undergraduate","Unconfident",61829,35,"High","Unhappy",43.03
+231,1,10,32,"Doctorate","Extremely Unconfident",278798,29,"High","Unhappy",52.42
+228,0,6,24,"Undergraduate","Unconfident",103633,26,"High","Happy",47.24
+295,2,1,28,"High School","Unconfident",52953,37,"Extremely High","Happy",131.98
+247,5,1,29,"Undergraduate","Unconfident",115770,29,"High","Happy",43.29
+192,5,1,31,"Undergraduate","Unconfident",82592,29,"High","Happy",96.8
+152,4,1,20,"High School","Extremely Unconfident",46504,37,"High","Happy",187.9
+132,1,9,25,"Undergraduate","Unconfident",65038,44,"High","Happy",90.65
+224,0,7,20,"High School","Extremely Unconfident",67268,47,"High","Happy",48.2
+85,2,10,29,"Undergraduate","Unconfident",62903,25,"Low","Unhappy",100.59
+151,3,4,31,"Graduate","Confident",127291,36,"Extremely High","Unhappy",118.03
+200,4,0,19,"High School","Extremely Unconfident",66775,36,"Low","Extremely Unhappy",35.05
+257,0,5,21,"High School","Confident",48755,35,"High","Unhappy",149.89
+62,0,8,20,"High School","Confident",34157,14,"Extremely Low","Happy",82.3
+223,2,7,24,"High School","Unconfident",35158,45,"Extremely High","Extremely Happy",41.89
+79,0,1,19,"High School","Unconfident",68545,39,"Extremely High","Extremely Happy",226.64
+167,0,6,26,"Undergraduate","Unconfident",94452,46,"Extremely High","Unhappy",49.51
+49,0,2,26,"Graduate","Confident",188638,27,"High","Happy",43.04
+255,1,2,25,"Undergraduate","Confident",83748,29,"Extremely High","Extremely Happy",53.68
+274,1,8,30,"Undergraduate","Confident",111764,37,"Low","Happy",140.84
+38,2,5,31,"Graduate","Extremely Confident",126564,26,"Extremely High","Unhappy",55.25
+95,4,6,24,"Undergraduate","Extremely Unconfident",105532,31,"High","Extremely Unhappy",79.74
+177,0,5,25,"High School","Confident",45769,35,"High","Happy",115.93
+287,4,5,23,"Undergraduate","Extremely Unconfident",87433,41,"Extremely Low","Extremely Happy",89.43
+196,2,1,26,"Undergraduate","Confident",108897,30,"Low","Extremely Unhappy",86.14
+227,4,0,33,"Doctorate","Extremely Unconfident",193216,29,"Extremely High","Unhappy",40.15
+40,0,8,25,"Graduate","Confident",200252,29,"Extremely High","Happy",110.35
+103,0,4,25,"Graduate","Extremely Unconfident",113222,33,"Low","Extremely Unhappy",145.09
+67,0,0,32,"Undergraduate","Extremely Unconfident",53562,24,"Low","Extremely Happy",142.98
+288,5,7,23,"Undergraduate","Extremely Unconfident",108148,42,"Extremely Low","Extremely Unhappy",53.43
+21,5,9,23,"Undergraduate","Confident",86061,41,"Extremely Low","Happy",81.93
+191,1,4,22,"Undergraduate","Confident",81776,36,"High","Happy",128.6
+291,3,2,19,"High School","Extremely Confident",65001,42,"Extremely High","Extremely Unhappy",109.78
+278,5,9,24,"Undergraduate","Unconfident",100292,25,"High","Happy",105.68
+52,1,8,23,"Undergraduate","Unconfident",93941,37,"Low","Unhappy",100.97
+264,2,4,23,"Undergraduate","Unconfident",51084,49,"High","Extremely Unhappy",100.16
+235,3,4,25,"Undergraduate","Extremely Unconfident",58830,31,"Extremely High","Happy",142.76
+93,1,8,24,"Graduate","Extremely Unconfident",177466,19,"Low","Happy",47.7
+149,4,3,28,"Graduate","Unconfident",155074,20,"Low","Extremely Unhappy",159.91
+108,0,2,27,"Graduate","Unconfident",139156,35,"Extremely High","Happy",54.15
+235,0,6,24,"Undergraduate","Unconfident",83503,22,"Extremely High","Unhappy",93.37
+228,2,0,32,"Doctorate","Unconfident",275490,28,"Extremely Low","Extremely Happy",157.31
+275,4,0,32,"Doctorate","Extremely Unconfident",196395,14,"Extremely High","Happy",39.75
+137,5,3,21,"Undergraduate","Extremely Unconfident",74124,40,"Extremely High","Happy",170.35
+216,4,1,23,"Undergraduate","Extremely Confident",90171,39,"High","Happy",35.77
+133,3,7,23,"Undergraduate","Extremely Confident",97600,30,"High","Unhappy",150.79
+181,5,4,27,"Graduate","Extremely Unconfident",98520,35,"Extremely High","Unhappy",80.93
+106,1,2,21,"High School","Extremely Unconfident",44212,50,"Extremely High","Unhappy",43.41
+11,3,9,28,"Undergraduate","Unconfident",65886,30,"Extremely Low","Unhappy",137.49
+294,0,9,27,"Undergraduate","Extremely Confident",102990,27,"High","Happy",54.7
+214,3,7,24,"Undergraduate","Extremely Unconfident",61096,23,"High","Extremely Unhappy",154.4
+32,1,3,32,"Graduate","Confident",143113,24,"Extremely High","Extremely Unhappy",129.56
+201,1,1,39,"Undergraduate","Extremely Unconfident",57662,42,"Low","Unhappy",89.3
+192,5,2,23,"Graduate","Unconfident",109248,25,"Extremely Low","Unhappy",87.93
+232,0,5,31,"Undergraduate","Extremely Unconfident",62435,27,"Extremely High","Unhappy",180.01
+170,1,3,27,"Undergraduate","Unconfident",66132,53,"Low","Unhappy",123.78
+63,4,2,21,"Undergraduate","Extremely Confident",86592,37,"Low","Extremely Unhappy",138.68
+259,1,6,25,"Graduate","Confident",131129,33,"Extremely High","Unhappy",114.7
+252,0,2,29,"Undergraduate","Unconfident",66803,34,"High","Unhappy",97.49
+154,0,9,21,"High School","Unconfident",61241,34,"High","Extremely Happy",50.25
+109,0,1,25,"Graduate","Extremely Unconfident",245970,47,"Extremely High","Extremely Happy",88.69
+23,0,0,22,"Graduate","Extremely Unconfident",166855,25,"High","Happy",142.33
+249,1,0,32,"Doctorate","Unconfident",186117,32,"High","Unhappy",41.51
+2,0,8,24,"Undergraduate","Extremely Unconfident",75318,24,"High","Extremely Unhappy",102.47
+250,5,3,26,"Undergraduate","Unconfident",91180,26,"Extremely High","Unhappy",135.45
+220,2,3,26,"Graduate","Extremely Unconfident",154491,37,"Low","Unhappy",118
+166,4,8,24,"High School","Extremely Confident",56105,32,"Extremely High","Happy",151.08
+26,3,3,25,"Undergraduate","Confident",72486,14,"High","Happy",38.12
+221,3,9,24,"Undergraduate","Extremely Unconfident",101769,30,"Extremely High","Unhappy",165.36
+153,5,1,26,"Undergraduate","Extremely Unconfident",56427,35,"Low","Happy",44.04
+61,5,10,22,"Graduate","Unconfident",135775,49,"Low","Extremely Happy",147.2
+144,0,2,20,"High School","Unconfident",35710,41,"Low","Unhappy",43.13
+241,3,5,26,"Graduate","Unconfident",138653,33,"Low","Happy",39.58
+77,4,8,28,"Graduate","Confident",143138,34,"Extremely Low","Unhappy",90.21
+241,0,5,23,"Undergraduate","Unconfident",58957,28,"Extremely High","Happy",89.64
+110,3,4,26,"Graduate","Unconfident",128203,28,"Low","Happy",99.59
+76,3,9,28,"Graduate","Confident",201205,27,"High","Unhappy",73.35
+233,0,5,30,"Undergraduate","Extremely Unconfident",103886,44,"High","Happy",54.96
+147,5,4,22,"Graduate","Confident",146757,30,"Low","Happy",148.7
+199,0,9,25,"Undergraduate","Unconfident",86979,28,"Extremely High","Happy",53.98
+149,3,4,27,"Undergraduate","Confident",111900,41,"Extremely High","Happy",33.16
+154,3,10,29,"Undergraduate","Unconfident",105248,38,"High","Extremely Unhappy",42.5
+43,0,1,25,"Undergraduate","Extremely Unconfident",104249,48,"Extremely High","Unhappy",191.74
+208,0,8,28,"Undergraduate","Extremely Unconfident",97599,32,"Extremely High","Unhappy",46.84
+28,1,9,27,"Undergraduate","Unconfident",74807,17,"Extremely High","Happy",91.94
+34,5,2,24,"Undergraduate","Extremely Unconfident",80967,44,"Extremely High","Happy",140.62
+87,4,5,27,"Undergraduate","Confident",88412,28,"High","Extremely Happy",77.98
+230,4,5,19,"High School","Unconfident",50696,21,"Extremely Low","Extremely Unhappy",143.25
+219,2,1,35,"Undergraduate","Unconfident",69174,34,"Extremely High","Happy",45.06
+222,0,5,31,"Undergraduate","Extremely Unconfident",98704,35,"Extremely High","Happy",54.44
+168,1,9,33,"Doctorate","Unconfident",288798,38,"Extremely High","Extremely Unhappy",106.19
+185,5,0,24,"Undergraduate","Unconfident",51031,40,"Low","Extremely Unhappy",119.8
+69,3,10,24,"Undergraduate","Unconfident",104383,43,"High","Extremely Happy",52.02
+120,5,2,31,"Undergraduate","Unconfident",80198,45,"Extremely High","Extremely Unhappy",176.23
+110,0,5,23,"Undergraduate","Unconfident",97904,32,"High","Happy",151.72
+221,5,10,24,"Graduate","Extremely Unconfident",222102,48,"Extremely Low","Unhappy",108.67
+224,4,1,25,"High School","Extremely Confident",50606,19,"Low","Extremely Unhappy",55.82
+92,3,10,36,"Doctorate","Extremely Confident",297488,52,"Extremely High","Extremely Happy",55.39
+52,1,5,23,"Undergraduate","Extremely Unconfident",102871,33,"Low","Happy",54.54
+137,1,7,27,"Undergraduate","Extremely Unconfident",69516,36,"Extremely High","Extremely Unhappy",105.22
+131,4,0,26,"Graduate","Extremely Confident",122247,34,"Extremely High","Unhappy",123.93
+133,3,1,26,"High School","Extremely Confident",30242,47,"Extremely High","Unhappy",40.31
+63,3,0,30,"Undergraduate","Extremely Confident",96279,24,"High","Extremely Unhappy",131.98
+43,4,6,28,"Undergraduate","Unconfident",103077,45,"Extremely Low","Extremely Unhappy",109.79
+211,5,2,24,"High School","Unconfident",32623,14,"Low","Happy",163.68
+221,0,4,24,"Undergraduate","Unconfident",107125,40,"Low","Unhappy",46.03
+34,3,5,29,"Graduate","Extremely Unconfident",109811,20,"Low","Extremely Unhappy",112.82
+9,4,10,25,"Undergraduate","Extremely Unconfident",84788,56,"High","Happy",144.25
+210,1,8,20,"High School","Extremely Unconfident",68402,50,"Extremely High","Happy",81.47
+92,3,1,25,"High School","Extremely Unconfident",54739,38,"High","Happy",44.82
+99,0,6,28,"Undergraduate","Unconfident",69203,26,"High","Happy",77.72
+28,1,2,20,"High School","Extremely Confident",54965,17,"Low","Extremely Happy",41.67
+230,1,6,20,"High School","Extremely Confident",33665,29,"High","Unhappy",49.6
+287,2,0,34,"Graduate","Unconfident",219640,30,"High","Happy",76.49
+275,5,7,25,"Graduate","Unconfident",156466,57,"Extremely High","Happy",115.7
+242,5,0,20,"High School","Extremely Unconfident",31118,34,"Extremely Low","Happy",178.54
+186,2,3,23,"Undergraduate","Extremely Confident",65674,40,"High","Extremely Unhappy",88.25
+64,1,2,22,"Undergraduate","Confident",75522,45,"High","Extremely Unhappy",110.86
+55,2,7,28,"Graduate","Unconfident",190177,51,"High","Happy",99.1
+109,2,6,21,"High School","Extremely Unconfident",40559,33,"High","Extremely Unhappy",45.75
+175,5,9,20,"High School","Unconfident",37776,19,"Low","Happy",51.91
+127,2,2,27,"Graduate","Extremely Unconfident",84082,15,"Low","Happy",93.95
+218,2,6,24,"Undergraduate","Unconfident",75564,23,"High","Happy",113.6
+278,4,7,27,"Graduate","Extremely Unconfident",154146,27,"Extremely High","Happy",148.7
+125,3,6,32,"Graduate","Extremely Unconfident",140362,46,"Low","Unhappy",155.32
+8,4,10,28,"Undergraduate","Confident",88291,37,"Extremely High","Happy",119.96
+13,0,7,29,"Undergraduate","Extremely Unconfident",72758,29,"High","Happy",119.47
+118,3,8,22,"Undergraduate","Extremely Unconfident",83487,24,"High","Unhappy",66.41
+6,2,9,29,"High School","Unconfident",53049,48,"Extremely High","Happy",156.29
+290,4,1,32,"Doctorate","Extremely Confident",290819,28,"Extremely High","Happy",89.54
+26,4,2,19,"High School","Unconfident",64715,22,"Low","Happy",91.3
+205,4,0,26,"Undergraduate","Unconfident",57029,23,"Low","Unhappy",31.82
+174,1,7,23,"Undergraduate","Extremely Unconfident",104753,38,"Low","Happy",48.59
+49,1,2,29,"Graduate","Unconfident",230789,33,"Low","Unhappy",99.04
+51,0,7,21,"High School","Unconfident",58654,37,"Low","Unhappy",96.98
+5,4,10,32,"Graduate","Unconfident",122291,21,"High","Happy",40.77
+216,0,4,31,"Undergraduate","Extremely Unconfident",110177,26,"Extremely High","Extremely Unhappy",62.13
+246,0,9,25,"Undergraduate","Unconfident",117099,34,"Extremely High","Extremely Unhappy",103.02
+226,1,10,24,"Graduate","Extremely Unconfident",189290,42,"Extremely High","Extremely Happy",139.74
+36,3,2,23,"Undergraduate","Extremely Unconfident",51826,37,"Low","Unhappy",149.07
+155,0,10,25,"Graduate","Unconfident",131136,37,"Low","Unhappy",94.07
+130,0,5,29,"Undergraduate","Extremely Confident",51630,20,"Extremely High","Extremely Happy",180.23
+175,0,6,21,"High School","Extremely Confident",41765,25,"Extremely High","Happy",43.65
+245,4,5,23,"Undergraduate","Extremely Unconfident",111612,42,"High","Extremely Unhappy",90.77
+122,0,2,28,"Undergraduate","Unconfident",57738,32,"Extremely Low","Happy",203.61
+248,5,1,24,"Undergraduate","Unconfident",108467,50,"High","Happy",84.38
+16,5,7,21,"Undergraduate","Extremely Unconfident",117458,26,"Low","Unhappy",138.06
+70,3,6,38,"Graduate","Extremely Confident",236380,12,"Low","Happy",91.83
+17,5,10,24,"High School","Unconfident",59171,34,"Extremely High","Unhappy",89.91
+52,4,10,26,"Undergraduate","Extremely Unconfident",67507,26,"Extremely Low","Extremely Unhappy",111.89
+256,4,7,21,"High School","Extremely Unconfident",53639,27,"Extremely High","Extremely Unhappy",70.31
+266,4,8,27,"Graduate","Confident",167933,33,"High","Extremely Unhappy",89.74
+150,1,9,23,"Undergraduate","Unconfident",98947,8,"Low","Unhappy",104.22
+298,2,7,23,"Undergraduate","Extremely Unconfident",106590,34,"Extremely Low","Unhappy",170.98
+218,0,7,27,"Undergraduate","Unconfident",99923,35,"Extremely Low","Extremely Unhappy",97.26
+30,1,7,22,"Graduate","Confident",91185,25,"Extremely High","Unhappy",144.02
+214,2,7,29,"Graduate","Unconfident",137006,25,"Low","Happy",106.93
+51,1,2,30,"High School","Unconfident",46174,19,"High","Happy",105.4
+271,5,7,27,"Graduate","Unconfident",151559,39,"Low","Happy",126.52
+34,0,4,29,"Graduate","Unconfident",122707,32,"High","Unhappy",113.03
+209,5,1,21,"Undergraduate","Unconfident",91668,47,"High","Happy",102.32
+151,5,10,21,"High School","Unconfident",51204,25,"High","Unhappy",149.64
+117,2,2,21,"High School","Unconfident",39182,26,"Low","Extremely Unhappy",71.14
+286,1,6,23,"Undergraduate","Unconfident",72412,25,"High","Unhappy",160.31
+176,5,1,22,"Undergraduate","Extremely Unconfident",74190,10,"High","Happy",102.45
+239,5,4,20,"High School","Unconfident",58798,42,"Extremely Low","Unhappy",101.85
+300,5,9,30,"Undergraduate","Extremely Confident",116332,50,"Extremely High","Extremely Unhappy",161.09
+221,0,10,26,"Undergraduate","Unconfident",95615,30,"High","Unhappy",93.36
+190,2,8,29,"Graduate","Extremely Unconfident",206327,30,"Low","Extremely Happy",84.52
+123,4,7,25,"Graduate","Confident",81632,26,"High","Unhappy",125.24
+237,3,5,28,"Graduate","Extremely Unconfident",123434,19,"Extremely Low","Extremely Unhappy",97.94
+111,0,9,24,"Graduate","Confident",242723,40,"High","Extremely Happy",52.36
+99,2,5,33,"Undergraduate","Unconfident",91727,43,"Extremely High","Unhappy",54.89
+167,5,8,30,"Graduate","Unconfident",118069,20,"High","Extremely Unhappy",57.53
+197,1,4,33,"Undergraduate","Unconfident",114501,47,"Low","Extremely Happy",90.95
+171,3,8,21,"High School","Extremely Unconfident",46064,24,"Extremely Low","Happy",149.79
+264,1,0,21,"High School","Extremely Unconfident",42341,47,"Low","Happy",175.8
+13,3,6,23,"Graduate","Extremely Unconfident",128360,28,"Extremely High","Extremely Happy",75.32
+246,5,0,29,"High School","Unconfident",34092,34,"Extremely High","Happy",120.77
+95,4,10,24,"Undergraduate","Unconfident",51912,38,"Low","Happy",110.79
+164,4,3,28,"Undergraduate","Extremely Unconfident",89225,13,"High","Unhappy",168.49
+222,3,7,19,"High School","Extremely Unconfident",48685,59,"High","Unhappy",98.41
+62,3,6,19,"High School","Extremely Unconfident",50497,55,"High","Happy",99.95
+282,1,7,29,"Undergraduate","Confident",72801,22,"Extremely High","Happy",140.83
+58,5,9,24,"Undergraduate","Confident",73915,43,"Extremely High","Unhappy",93.05
+294,2,1,24,"High School","Unconfident",37713,9,"Extremely High","Extremely Unhappy",127.38
+163,4,2,30,"High School","Unconfident",37813,50,"Low","Happy",83.31
+43,2,9,36,"Doctorate","Unconfident",289881,16,"Low","Unhappy",121.81
+74,1,8,33,"Graduate","Unconfident",196654,34,"Extremely Low","Unhappy",49.43
+173,4,8,25,"Graduate","Confident",241905,23,"High","Happy",97.45
+286,1,2,24,"Undergraduate","Extremely Unconfident",95787,42,"Low","Happy",96.49
+252,4,3,23,"Undergraduate","Confident",87330,31,"High","Happy",51.32
+181,3,5,28,"Graduate","Extremely Unconfident",86950,3,"Low","Happy",46.9
+25,4,5,28,"Undergraduate","Extremely Unconfident",75308,27,"Low","Unhappy",107.2
+277,5,8,27,"Undergraduate","Extremely Unconfident",101025,34,"High","Unhappy",152.28
+113,2,10,22,"Undergraduate","Confident",115487,40,"Extremely High","Extremely Unhappy",87.14
+212,0,4,29,"Undergraduate","Unconfident",106418,25,"High","Happy",62.59
+5,4,0,33,"Doctorate","Extremely Unconfident",186011,35,"Extremely High","Happy",93.24
+130,1,8,25,"Undergraduate","Confident",60270,30,"High","Extremely Unhappy",110.36
+253,4,9,30,"Graduate","Unconfident",128838,38,"High","Unhappy",86.58
+36,2,3,21,"High School","Unconfident",65598,22,"Low","Happy",108.55
+244,4,2,19,"High School","Unconfident",39362,37,"High","Extremely Happy",101.66
+12,1,7,28,"Graduate","Extremely Unconfident",142876,34,"High","Unhappy",130.91
+42,4,6,25,"Undergraduate","Unconfident",108401,23,"Extremely High","Unhappy",54.41
+201,4,5,31,"Graduate","Unconfident",202080,17,"High","Happy",114.48
+213,0,8,31,"Graduate","Extremely Confident",141647,15,"Low","Unhappy",111.2
+273,1,7,25,"Undergraduate","Extremely Confident",57431,29,"Low","Happy",129.63
+47,1,7,22,"High School","Unconfident",55218,35,"High","Unhappy",95.28
+43,0,8,31,"Graduate","Extremely Confident",173123,44,"Extremely High","Unhappy",113.38
+205,5,8,20,"High School","Extremely Confident",66791,34,"High","Extremely Happy",79.22
+255,3,6,28,"High School","Unconfident",65185,18,"High","Happy",88.18
+104,4,5,25,"Undergraduate","Unconfident",119480,32,"High","Happy",103.9
+285,2,6,27,"Undergraduate","Unconfident",80546,28,"Extremely High","Unhappy",85.4
+32,3,9,26,"Undergraduate","Unconfident",65187,56,"Low","Extremely Unhappy",101.77
+143,4,4,19,"High School","Confident",47250,45,"Extremely High","Happy",88.05
+277,3,0,19,"High School","Extremely Unconfident",50805,49,"Low","Unhappy",101.6
+45,5,6,26,"Undergraduate","Unconfident",84489,42,"Extremely High","Happy",44.98
+287,4,0,26,"Undergraduate","Confident",50759,34,"Low","Happy",199.85
+122,2,9,23,"Undergraduate","Unconfident",107459,26,"High","Extremely Happy",107.19
+211,4,10,28,"High School","Confident",67335,43,"Extremely Low","Happy",104.61
+166,3,8,25,"Undergraduate","Confident",100502,24,"Low","Happy",131.43
+195,0,4,20,"High School","Unconfident",31497,13,"Extremely High","Happy",137.01
+160,5,2,25,"Undergraduate","Extremely Unconfident",80493,44,"Extremely Low","Happy",139.42
+154,2,1,24,"Undergraduate","Unconfident",106913,33,"High","Unhappy",151.48
